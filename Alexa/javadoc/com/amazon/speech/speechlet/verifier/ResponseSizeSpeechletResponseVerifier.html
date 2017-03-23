@@ -48,8 +48,8 @@ var activeTableTab = "activeTableTab";
 </div>
 <div class="subNav">
 <ul class="navList">
-<li><a href="OutputSpeechSpeechletResponseVerifier.html" title="class in com.amazon.speech.speechlet.verifier"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
-<li><a href="SpeechletRequestEnvelopeVerifier.html" title="interface in com.amazon.speech.speechlet.verifier"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
+<li><a href="../../../../../com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.html" title="class in com.amazon.speech.speechlet.verifier"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
+<li><a href="../../../../../com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.html" title="interface in com.amazon.speech.speechlet.verifier"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
 </ul>
 <ul class="navList">
 <li><a href="../../../../../index.html?com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.html" target="_top">Frames</a></li>
@@ -108,15 +108,15 @@ var activeTableTab = "activeTableTab";
 <li class="blockList">
 <dl>
 <dt>All Implemented Interfaces:</dt>
-<dd><a href="SpeechletResponseVerifier.html" title="interface in com.amazon.speech.speechlet.verifier">SpeechletResponseVerifier</a></dd>
+<dd><a href="../../../../../com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.html" title="interface in com.amazon.speech.speechlet.verifier">SpeechletResponseVerifier</a></dd>
 </dl>
 <hr>
 <br>
 <pre>public class <span class="typeNameLabel">ResponseSizeSpeechletResponseVerifier</span>
 extends <a href="http://devcentral.amazon.com/ac/brazil/package-master/package/view/JDK8%253B1.0.3708.55%253BRHEL5_64%253BDEV.STD.PTHREAD%253Bbrazil-documentation/api/java/lang/Object.html?is-external=true" title="class or interface in java.lang">Object</a>
-implements <a href="SpeechletResponseVerifier.html" title="interface in com.amazon.speech.speechlet.verifier">SpeechletResponseVerifier</a></pre>
-<div class="block">A <a href="SpeechletResponseVerifier.html" title="interface in com.amazon.speech.speechlet.verifier"><code>SpeechletResponseVerifier</code></a> to verify the size of the complete response returned in
- <a href="../../json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletResponseEnvelope</code></a>. In the current implementation, the
+implements <a href="../../../../../com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.html" title="interface in com.amazon.speech.speechlet.verifier">SpeechletResponseVerifier</a></pre>
+<div class="block">A <a href="../../../../../com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.html" title="interface in com.amazon.speech.speechlet.verifier"><code>SpeechletResponseVerifier</code></a> to verify the size of the complete response returned in
+ <a href="../../../../../com/amazon/speech/json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletResponseEnvelope</code></a>. In the current implementation, the
  <a href="../../../../../com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.html#verify-com.amazon.speech.json.SpeechletResponseEnvelope-com.amazon.speech.speechlet.Session-"><code>verify(SpeechletResponseEnvelope, Session)</code></a> method logs a warning if the response size in
  bytes exceeds .
  <p>
@@ -159,9 +159,9 @@ implements <a href="SpeechletResponseVerifier.html" title="interface in com.amaz
 </tr>
 <tr id="i0" class="altColor">
 <td class="colFirst"><code>boolean</code></td>
-<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.html#verify-com.amazon.speech.json.SpeechletResponseEnvelope-com.amazon.speech.speechlet.Session-">verify</a></span>(<a href="../../json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json">SpeechletResponseEnvelope</a>&nbsp;responseEnvelope,
-      <a href="../Session.html" title="class in com.amazon.speech.speechlet">Session</a>&nbsp;session)</code>
-<div class="block">Verifies a <a href="../../json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletResponseEnvelope</code></a> within the context of the <a href="../Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a> in
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.html#verify-com.amazon.speech.json.SpeechletResponseEnvelope-com.amazon.speech.speechlet.Session-">verify</a></span>(<a href="../../../../../com/amazon/speech/json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json">SpeechletResponseEnvelope</a>&nbsp;responseEnvelope,
+      <a href="../../../../../com/amazon/speech/speechlet/Session.html" title="class in com.amazon.speech.speechlet">Session</a>&nbsp;session)</code>
+<div class="block">Verifies a <a href="../../../../../com/amazon/speech/json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletResponseEnvelope</code></a> within the context of the <a href="../../../../../com/amazon/speech/speechlet/Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a> in
  which it was received.</div>
 </td>
 </tr>
@@ -210,17 +210,17 @@ implements <a href="SpeechletResponseVerifier.html" title="interface in com.amaz
 <ul class="blockListLast">
 <li class="blockList">
 <h4>verify</h4>
-<pre>public&nbsp;boolean&nbsp;verify(<a href="../../json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json">SpeechletResponseEnvelope</a>&nbsp;responseEnvelope,
-                      <a href="../Session.html" title="class in com.amazon.speech.speechlet">Session</a>&nbsp;session)</pre>
-<div class="block"><span class="descfrmTypeLabel">Description copied from interface:&nbsp;<code><a href="SpeechletResponseVerifier.html#verify-com.amazon.speech.json.SpeechletResponseEnvelope-com.amazon.speech.speechlet.Session-">SpeechletResponseVerifier</a></code></span></div>
-<div class="block">Verifies a <a href="../../json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletResponseEnvelope</code></a> within the context of the <a href="../Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a> in
+<pre>public&nbsp;boolean&nbsp;verify(<a href="../../../../../com/amazon/speech/json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json">SpeechletResponseEnvelope</a>&nbsp;responseEnvelope,
+                      <a href="../../../../../com/amazon/speech/speechlet/Session.html" title="class in com.amazon.speech.speechlet">Session</a>&nbsp;session)</pre>
+<div class="block"><span class="descfrmTypeLabel">Description copied from interface:&nbsp;<code><a href="../../../../../com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.html#verify-com.amazon.speech.json.SpeechletResponseEnvelope-com.amazon.speech.speechlet.Session-">SpeechletResponseVerifier</a></code></span></div>
+<div class="block">Verifies a <a href="../../../../../com/amazon/speech/json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletResponseEnvelope</code></a> within the context of the <a href="../../../../../com/amazon/speech/speechlet/Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a> in
  which it was received. Returns true if the verify succeeded, false otherwise.</div>
 <dl>
 <dt><span class="overrideSpecifyLabel">Specified by:</span></dt>
-<dd><code><a href="SpeechletResponseVerifier.html#verify-com.amazon.speech.json.SpeechletResponseEnvelope-com.amazon.speech.speechlet.Session-">verify</a></code>&nbsp;in interface&nbsp;<code><a href="SpeechletResponseVerifier.html" title="interface in com.amazon.speech.speechlet.verifier">SpeechletResponseVerifier</a></code></dd>
+<dd><code><a href="../../../../../com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.html#verify-com.amazon.speech.json.SpeechletResponseEnvelope-com.amazon.speech.speechlet.Session-">verify</a></code>&nbsp;in interface&nbsp;<code><a href="../../../../../com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.html" title="interface in com.amazon.speech.speechlet.verifier">SpeechletResponseVerifier</a></code></dd>
 <dt><span class="paramLabel">Parameters:</span></dt>
-<dd><code>responseEnvelope</code> - <a href="../../json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletResponseEnvelope</code></a> to verify</dd>
-<dd><code>session</code> - <a href="../Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a> context within which to verify the call</dd>
+<dd><code>responseEnvelope</code> - <a href="../../../../../com/amazon/speech/json/SpeechletResponseEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletResponseEnvelope</code></a> to verify</dd>
+<dd><code>session</code> - <a href="../../../../../com/amazon/speech/speechlet/Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a> context within which to verify the call</dd>
 <dt><span class="returnLabel">Returns:</span></dt>
 <dd>true if the verify succeeded, false otherwise</dd>
 </dl>
@@ -253,8 +253,8 @@ implements <a href="SpeechletResponseVerifier.html" title="interface in com.amaz
 </div>
 <div class="subNav">
 <ul class="navList">
-<li><a href="OutputSpeechSpeechletResponseVerifier.html" title="class in com.amazon.speech.speechlet.verifier"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
-<li><a href="SpeechletRequestEnvelopeVerifier.html" title="interface in com.amazon.speech.speechlet.verifier"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
+<li><a href="../../../../../com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.html" title="class in com.amazon.speech.speechlet.verifier"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
+<li><a href="../../../../../com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.html" title="interface in com.amazon.speech.speechlet.verifier"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
 </ul>
 <ul class="navList">
 <li><a href="../../../../../index.html?com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.html" target="_top">Frames</a></li>

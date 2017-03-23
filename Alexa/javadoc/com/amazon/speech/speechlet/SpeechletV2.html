@@ -48,8 +48,8 @@ var activeTableTab = "activeTableTab";
 </div>
 <div class="subNav">
 <ul class="navList">
-<li><a href="SpeechletToSpeechletV2Adapter.html" title="class in com.amazon.speech.speechlet"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
-<li><a href="State.html" title="class in com.amazon.speech.speechlet"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
+<li><a href="../../../../com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.html" title="class in com.amazon.speech.speechlet"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
+<li><a href="../../../../com/amazon/speech/speechlet/State.html" title="class in com.amazon.speech.speechlet"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
 </ul>
 <ul class="navList">
 <li><a href="../../../../index.html?com/amazon/speech/speechlet/SpeechletV2.html" target="_top">Frames</a></li>
@@ -100,7 +100,7 @@ var activeTableTab = "activeTableTab";
 <li class="blockList">
 <dl>
 <dt>All Known Implementing Classes:</dt>
-<dd><a href="SpeechletToSpeechletV2Adapter.html" title="class in com.amazon.speech.speechlet">SpeechletToSpeechletV2Adapter</a></dd>
+<dd><a href="../../../../com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.html" title="class in com.amazon.speech.speechlet">SpeechletToSpeechletV2Adapter</a></dd>
 </dl>
 <hr>
 <br>
@@ -111,7 +111,7 @@ var activeTableTab = "activeTableTab";
  </p>
 
  <p>
- This is the second version, which takes in <a href="../json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletRequestEnvelope</code></a>s instead of a request
+ This is the second version, which takes in <a href="../../../../com/amazon/speech/json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json"><code>SpeechletRequestEnvelope</code></a>s instead of a request
  and session.
  </p>
 
@@ -132,11 +132,11 @@ var activeTableTab = "activeTableTab";
  many sessions, using many concurrent threads. Also, multiple requests that are part of a single
  session coming from a single user and a single device may actually be serviced by different
  <code>SpeechletV2</code> objects if your service is deployed on multiple machines and load-balanced.
- The <a href="Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a> object is what defines a single run of a skill as experienced by a user.
+ The <a href="../../../../com/amazon/speech/speechlet/Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a> object is what defines a single run of a skill as experienced by a user.
  </p></div>
 <dl>
 <dt><span class="seeLabel">See Also:</span></dt>
-<dd><a href="Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a></dd>
+<dd><a href="../../../../com/amazon/speech/speechlet/Session.html" title="class in com.amazon.speech.speechlet"><code>Session</code></a></dd>
 </dl>
 </li>
 </ul>
@@ -157,32 +157,32 @@ var activeTableTab = "activeTableTab";
 <th class="colLast" scope="col">Method and Description</th>
 </tr>
 <tr id="i0" class="altColor">
-<td class="colFirst"><code><a href="SpeechletResponse.html" title="class in com.amazon.speech.speechlet">SpeechletResponse</a></code></td>
-<td class="colLast"><code><span class="memberNameLink"><a href="../../../../com/amazon/speech/speechlet/SpeechletV2.html#onIntent-com.amazon.speech.json.SpeechletRequestEnvelope-">onIntent</a></span>(<a href="../json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="IntentRequest.html" title="class in com.amazon.speech.speechlet">IntentRequest</a>&gt;&nbsp;requestEnvelope)</code>
+<td class="colFirst"><code><a href="../../../../com/amazon/speech/speechlet/SpeechletResponse.html" title="class in com.amazon.speech.speechlet">SpeechletResponse</a></code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../com/amazon/speech/speechlet/SpeechletV2.html#onIntent-com.amazon.speech.json.SpeechletRequestEnvelope-">onIntent</a></span>(<a href="../../../../com/amazon/speech/json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="../../../../com/amazon/speech/speechlet/IntentRequest.html" title="class in com.amazon.speech.speechlet">IntentRequest</a>&gt;&nbsp;requestEnvelope)</code>
 <div class="block">Entry point for handling speech initiated requests.<br>
 
  This is where the bulk of the <code>SpeechletV2</code> logic lives.</div>
 </td>
 </tr>
 <tr id="i1" class="rowColor">
-<td class="colFirst"><code><a href="SpeechletResponse.html" title="class in com.amazon.speech.speechlet">SpeechletResponse</a></code></td>
-<td class="colLast"><code><span class="memberNameLink"><a href="../../../../com/amazon/speech/speechlet/SpeechletV2.html#onLaunch-com.amazon.speech.json.SpeechletRequestEnvelope-">onLaunch</a></span>(<a href="../json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="LaunchRequest.html" title="class in com.amazon.speech.speechlet">LaunchRequest</a>&gt;&nbsp;requestEnvelope)</code>
+<td class="colFirst"><code><a href="../../../../com/amazon/speech/speechlet/SpeechletResponse.html" title="class in com.amazon.speech.speechlet">SpeechletResponse</a></code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../com/amazon/speech/speechlet/SpeechletV2.html#onLaunch-com.amazon.speech.json.SpeechletRequestEnvelope-">onLaunch</a></span>(<a href="../../../../com/amazon/speech/json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="../../../../com/amazon/speech/speechlet/LaunchRequest.html" title="class in com.amazon.speech.speechlet">LaunchRequest</a>&gt;&nbsp;requestEnvelope)</code>
 <div class="block">Entry point for <code>SpeechletV2</code>s for handling a speech initiated request to start the skill
  without providing an <code>Intent</code>.<br>
 
- This method is only invoked when <a href="Session.html#isNew--"><code>Session.isNew()</code></a> is <code>true</code>.</div>
+ This method is only invoked when <a href="../../../../com/amazon/speech/speechlet/Session.html#isNew--"><code>Session.isNew()</code></a> is <code>true</code>.</div>
 </td>
 </tr>
 <tr id="i2" class="altColor">
 <td class="colFirst"><code>void</code></td>
-<td class="colLast"><code><span class="memberNameLink"><a href="../../../../com/amazon/speech/speechlet/SpeechletV2.html#onSessionEnded-com.amazon.speech.json.SpeechletRequestEnvelope-">onSessionEnded</a></span>(<a href="../json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="SessionEndedRequest.html" title="class in com.amazon.speech.speechlet">SessionEndedRequest</a>&gt;&nbsp;requestEnvelope)</code>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../com/amazon/speech/speechlet/SpeechletV2.html#onSessionEnded-com.amazon.speech.json.SpeechletRequestEnvelope-">onSessionEnded</a></span>(<a href="../../../../com/amazon/speech/json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="../../../../com/amazon/speech/speechlet/SessionEndedRequest.html" title="class in com.amazon.speech.speechlet">SessionEndedRequest</a>&gt;&nbsp;requestEnvelope)</code>
 <div class="block">Callback used to notify that the session ended as a result of the user interacting, or not
  interacting with the device.</div>
 </td>
 </tr>
 <tr id="i3" class="rowColor">
 <td class="colFirst"><code>void</code></td>
-<td class="colLast"><code><span class="memberNameLink"><a href="../../../../com/amazon/speech/speechlet/SpeechletV2.html#onSessionStarted-com.amazon.speech.json.SpeechletRequestEnvelope-">onSessionStarted</a></span>(<a href="../json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="SessionStartedRequest.html" title="class in com.amazon.speech.speechlet">SessionStartedRequest</a>&gt;&nbsp;requestEnvelope)</code>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../com/amazon/speech/speechlet/SpeechletV2.html#onSessionStarted-com.amazon.speech.json.SpeechletRequestEnvelope-">onSessionStarted</a></span>(<a href="../../../../com/amazon/speech/json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="../../../../com/amazon/speech/speechlet/SessionStartedRequest.html" title="class in com.amazon.speech.speechlet">SessionStartedRequest</a>&gt;&nbsp;requestEnvelope)</code>
 <div class="block">Used to notify that a new session started as a result of a user interacting with the device.</div>
 </td>
 </tr>
@@ -207,7 +207,7 @@ var activeTableTab = "activeTableTab";
 <ul class="blockList">
 <li class="blockList">
 <h4>onSessionStarted</h4>
-<pre>void&nbsp;onSessionStarted(<a href="../json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="SessionStartedRequest.html" title="class in com.amazon.speech.speechlet">SessionStartedRequest</a>&gt;&nbsp;requestEnvelope)</pre>
+<pre>void&nbsp;onSessionStarted(<a href="../../../../com/amazon/speech/json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="../../../../com/amazon/speech/speechlet/SessionStartedRequest.html" title="class in com.amazon.speech.speechlet">SessionStartedRequest</a>&gt;&nbsp;requestEnvelope)</pre>
 <div class="block">Used to notify that a new session started as a result of a user interacting with the device.
  This method enables <code>SpeechletV2</code>s to perform initialization logic and allows for session
  attributes to be stored for subsequent requests.</div>
@@ -223,11 +223,11 @@ var activeTableTab = "activeTableTab";
 <ul class="blockList">
 <li class="blockList">
 <h4>onLaunch</h4>
-<pre><a href="SpeechletResponse.html" title="class in com.amazon.speech.speechlet">SpeechletResponse</a>&nbsp;onLaunch(<a href="../json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="LaunchRequest.html" title="class in com.amazon.speech.speechlet">LaunchRequest</a>&gt;&nbsp;requestEnvelope)</pre>
+<pre><a href="../../../../com/amazon/speech/speechlet/SpeechletResponse.html" title="class in com.amazon.speech.speechlet">SpeechletResponse</a>&nbsp;onLaunch(<a href="../../../../com/amazon/speech/json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="../../../../com/amazon/speech/speechlet/LaunchRequest.html" title="class in com.amazon.speech.speechlet">LaunchRequest</a>&gt;&nbsp;requestEnvelope)</pre>
 <div class="block">Entry point for <code>SpeechletV2</code>s for handling a speech initiated request to start the skill
  without providing an <code>Intent</code>.<br>
 
- This method is only invoked when <a href="Session.html#isNew--"><code>Session.isNew()</code></a> is <code>true</code>.</div>
+ This method is only invoked when <a href="../../../../com/amazon/speech/speechlet/Session.html#isNew--"><code>Session.isNew()</code></a> is <code>true</code>.</div>
 <dl>
 <dt><span class="paramLabel">Parameters:</span></dt>
 <dd><code>requestEnvelope</code> - the launch request envelope</dd>
@@ -242,13 +242,13 @@ var activeTableTab = "activeTableTab";
 <ul class="blockList">
 <li class="blockList">
 <h4>onIntent</h4>
-<pre><a href="SpeechletResponse.html" title="class in com.amazon.speech.speechlet">SpeechletResponse</a>&nbsp;onIntent(<a href="../json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="IntentRequest.html" title="class in com.amazon.speech.speechlet">IntentRequest</a>&gt;&nbsp;requestEnvelope)</pre>
+<pre><a href="../../../../com/amazon/speech/speechlet/SpeechletResponse.html" title="class in com.amazon.speech.speechlet">SpeechletResponse</a>&nbsp;onIntent(<a href="../../../../com/amazon/speech/json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="../../../../com/amazon/speech/speechlet/IntentRequest.html" title="class in com.amazon.speech.speechlet">IntentRequest</a>&gt;&nbsp;requestEnvelope)</pre>
 <div class="block">Entry point for handling speech initiated requests.<br>
 
  This is where the bulk of the <code>SpeechletV2</code> logic lives. Intent requests are handled by
  this method and return responses to render to the user.<br>
 
- If this is the initial request of a new <code>SpeechletV2</code> session, <a href="Session.html#isNew--"><code>Session.isNew()</code></a>
+ If this is the initial request of a new <code>SpeechletV2</code> session, <a href="../../../../com/amazon/speech/speechlet/Session.html#isNew--"><code>Session.isNew()</code></a>
  returns <code>true</code>. Otherwise, this is a subsequent request within an existing session.</div>
 <dl>
 <dt><span class="paramLabel">Parameters:</span></dt>
@@ -264,10 +264,10 @@ var activeTableTab = "activeTableTab";
 <ul class="blockListLast">
 <li class="blockList">
 <h4>onSessionEnded</h4>
-<pre>void&nbsp;onSessionEnded(<a href="../json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="SessionEndedRequest.html" title="class in com.amazon.speech.speechlet">SessionEndedRequest</a>&gt;&nbsp;requestEnvelope)</pre>
+<pre>void&nbsp;onSessionEnded(<a href="../../../../com/amazon/speech/json/SpeechletRequestEnvelope.html" title="class in com.amazon.speech.json">SpeechletRequestEnvelope</a>&lt;<a href="../../../../com/amazon/speech/speechlet/SessionEndedRequest.html" title="class in com.amazon.speech.speechlet">SessionEndedRequest</a>&gt;&nbsp;requestEnvelope)</pre>
 <div class="block">Callback used to notify that the session ended as a result of the user interacting, or not
  interacting with the device. This method is not invoked if the <code>SpeechletV2</code> itself
- ended the session using <a href="SpeechletResponse.html#setShouldEndSession-boolean-"><code>SpeechletResponse.setShouldEndSession(boolean)</code></a>.</div>
+ ended the session using <a href="../../../../com/amazon/speech/speechlet/SpeechletResponse.html#setShouldEndSession-boolean-"><code>SpeechletResponse.setShouldEndSession(boolean)</code></a>.</div>
 <dl>
 <dt><span class="paramLabel">Parameters:</span></dt>
 <dd><code>requestEnvelope</code> - the end of session request envelope</dd>
@@ -301,8 +301,8 @@ var activeTableTab = "activeTableTab";
 </div>
 <div class="subNav">
 <ul class="navList">
-<li><a href="SpeechletToSpeechletV2Adapter.html" title="class in com.amazon.speech.speechlet"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
-<li><a href="State.html" title="class in com.amazon.speech.speechlet"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
+<li><a href="../../../../com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.html" title="class in com.amazon.speech.speechlet"><span class="typeNameLink">Prev&nbsp;Class</span></a></li>
+<li><a href="../../../../com/amazon/speech/speechlet/State.html" title="class in com.amazon.speech.speechlet"><span class="typeNameLink">Next&nbsp;Class</span></a></li>
 </ul>
 <ul class="navList">
 <li><a href="../../../../index.html?com/amazon/speech/speechlet/SpeechletV2.html" target="_top">Frames</a></li>

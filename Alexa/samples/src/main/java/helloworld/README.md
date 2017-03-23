@@ -22,8 +22,6 @@ To run this example skill you need to do two things. The first is to deploy the 
 12. Click "Next" and review the settings then click "Create Function"
 13. Copy the ARN from the top right to be used later in the Alexa Skill Setup.
 
-arn:aws:lambda:us-east-1:297051253240:function:Hello-World-Example-Skill
-
 ### Alexa Skill Setup
 1. Go to the [Alexa Console](https://developer.amazon.com/edw/home.html) and click Add a New Skill.
 2. Set "HelloWorld" as the skill name and "greeter" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, tell Greeter to say hello."
