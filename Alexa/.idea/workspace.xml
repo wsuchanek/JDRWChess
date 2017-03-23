@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0770fcfc-c1e0-4fb7-929d-14813fd0750f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/package-tree.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/package-tree.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/Alexa/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/Alexa/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/compiler.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/copyright/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_lambda_java_core_1_0_0.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__com_amazonaws_aws_lambda_java_core_1_0_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_2.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_3_2.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_3_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_3_2.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_3_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_0.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__joda_time_joda_time_2_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_0.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_0.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_0.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/Alexa/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/Alexa/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NOTICE.txt" afterPath="$PROJECT_DIR$/Alexa/NOTICE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/Alexa/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alexa-skills-kit.iml" afterPath="$PROJECT_DIR$/Alexa/alexa-skills-kit.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/allclasses-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/allclasses-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/allclasses-noframe.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/allclasses-noframe.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/Sdk.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/Sdk.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/json/SpeechletRequestEnvelope.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/SpeechletRequestEnvelope.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/json/SpeechletRequestEnvelope.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/SpeechletRequestEnvelope.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/json/SpeechletRequestModule.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/SpeechletRequestModule.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/json/SpeechletResponseEnvelope.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/SpeechletResponseEnvelope.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/json/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/json/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/json/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/slu/Intent.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/Intent.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/slu/Intent.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/Intent.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/slu/Slot.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/Slot.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/slu/Slot.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/Slot.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/slu/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/slu/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/slu/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Application.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Application.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Context.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Context.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Context.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Context.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/CoreSpeechletRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/CoreSpeechletRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Device.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Device.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Device.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Device.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Directive.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Directive.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/IntentRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/IntentRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/IntentRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/IntentRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Interface.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Interface.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/LaunchRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/LaunchRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/LaunchRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/LaunchRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Session.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Session.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Session.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Session.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SessionEndedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionEndedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SessionEndedRequest.Reason.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionEndedRequest.Reason.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SessionEndedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionEndedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SessionStartedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionStartedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SessionStartedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionStartedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/Speechlet.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Speechlet.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SpeechletException.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletException.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SpeechletRequest.SpeechletRequestBuilder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequest.SpeechletRequestBuilder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SpeechletRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SpeechletRequestDispatcher.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequestDispatcher.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SpeechletRequestHandler.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequestHandler.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SpeechletRequestHandlerException.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequestHandlerException.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SpeechletResponse.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletResponse.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SpeechletV2.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletV2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/State.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/State.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SupportedInterfaces.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SupportedInterfaces.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/SupportedInterfaces.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SupportedInterfaces.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/User.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/User.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/User.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/User.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/authentication/ApplicationIdVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/ApplicationIdVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/authentication/SpeechletRequestSignatureVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/SpeechletRequestSignatureVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/authentication/TimestampVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/TimestampVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/authentication/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/authentication/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/authentication/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioItem.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioItem.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayer.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayer.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/ClearBehavior.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/ClearBehavior.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/Error.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/Error.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/ErrorType.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/ErrorType.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/PlayBehavior.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/PlayBehavior.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/PlayerActivity.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/PlayerActivity.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/Stream.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/Stream.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/ClearQueueDirective.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/ClearQueueDirective.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/PlayDirective.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/PlayDirective.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/StopDirective.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/StopDirective.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/AudioPlayerRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/AudioPlayerRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/PlaybackController.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/PlaybackController.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlaybackControllerRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlaybackControllerRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/Error.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/Error.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/Error.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/Error.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/ErrorCause.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/ErrorCause.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/ErrorCause.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/ErrorCause.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/ErrorType.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/ErrorType.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/System.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/System.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemInterface.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemInterface.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemInterface.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemInterface.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemState.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemState.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemState.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemState.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.Builder.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.Builder.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/request/SystemRequest.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/SystemRequest.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/request/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/request/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/interfaces/system/request/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/lambda/LambdaSpeechletRequestHandler.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/LambdaSpeechletRequestHandler.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/lambda/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/lambda/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/lambda/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/servlet/ServletSpeechletRequestHandler.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/ServletSpeechletRequestHandler.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/servlet/SpeechletServlet.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/SpeechletServlet.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/servlet/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/servlet/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/servlet/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestEnvelopeVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestEnvelopeVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/CardSpeechletResponseVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/CardSpeechletResponseVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifierWrapper.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifierWrapper.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/TimestampSpeechletRequestVerifier.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/TimestampSpeechletRequestVerifier.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/speechlet/verifier/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/Card.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/Card.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/Image.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/Image.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/LinkAccountCard.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/LinkAccountCard.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/OutputSpeech.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/OutputSpeech.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/PlainTextOutputSpeech.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/PlainTextOutputSpeech.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/Reprompt.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/Reprompt.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/SimpleCard.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/SimpleCard.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/SsmlOutputSpeech.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/SsmlOutputSpeech.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/StandardCard.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/StandardCard.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/package-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/package-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/package-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/package-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/com/amazon/speech/ui/package-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/package-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/constant-values.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/constant-values.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/deprecated-list.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/deprecated-list.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/help-doc.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/help-doc.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/index-all.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/index-all.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/index.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/overview-frame.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/overview-frame.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/overview-summary.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/overview-summary.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/overview-tree.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/overview-tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/package-list" afterPath="$PROJECT_DIR$/Alexa/javadoc/package-list" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/script.js" afterPath="$PROJECT_DIR$/Alexa/javadoc/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/serialized-form.html" afterPath="$PROJECT_DIR$/Alexa/javadoc/serialized-form.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javadoc/stylesheet.css" afterPath="$PROJECT_DIR$/Alexa/javadoc/stylesheet.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/Alexa/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/.gitignore" afterPath="$PROJECT_DIR$/Alexa/samples/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/build.gradle" afterPath="$PROJECT_DIR$/Alexa/samples/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/pom.xml" afterPath="$PROJECT_DIR$/Alexa/samples/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/Launcher.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/helloworld/README.md" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/IntentSchema.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/historybuff/HistoryBuffSpeechlet.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/historybuff/HistoryBuffSpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/historybuff/README.md" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/historybuff/speechAssets/IntentSchema.json" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets/IntentSchema.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/historybuff/speechAssets/SampleUtterances.txt" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets/SampleUtterances.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/minecrafthelper/MinecraftHelperSpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftHelperSpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/minecrafthelper/MinecraftSpeechlet.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftSpeechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/minecrafthelper/README.md" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/minecrafthelper/Recipes.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/Recipes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/minecrafthelper/speechAssets/IntentSchema.json" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/IntentSchema.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/minecrafthelper/speechAssets/SampleUtterances.txt" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/SampleUtterances.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/minecrafthelper/speechAssets/customSlotTypes/LIST_OF_ITEMS" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/customSlotTypes/LIST_OF_ITEMS" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/savvyconsumer/README.md" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechlet.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/savvyconsumer/SignedRequestsHelper.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SignedRequestsHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/savvyconsumer/speechAssets/IntentSchema.json" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/IntentSchema.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/savvyconsumer/speechAssets/SampleUtterances.txt" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/SampleUtterances.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/savvyconsumer/speechAssets/customSlotTypes/LIST_OF_CATEGORIES" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/customSlotTypes/LIST_OF_CATEGORIES" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/README.md" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/ScoreKeeperManager.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/ScoreKeeperManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/ScoreKeeperSpeechlet.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/ScoreKeeperSpeechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/ScoreKeeperSpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/ScoreKeeperSpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/ScoreKeeperTextUtil.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/ScoreKeeperTextUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/SkillContext.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/SkillContext.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/speechAssets/IntentSchema.json" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/speechAssets/IntentSchema.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/speechAssets/SampleUtterances.txt" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/speechAssets/SampleUtterances.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/speechAssets/customSlotTypes/LIST_OF_PLAYER_NAMES" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/speechAssets/customSlotTypes/LIST_OF_PLAYER_NAMES" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/storage/ScoreKeeperDao.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperDao.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/storage/ScoreKeeperDynamoDbClient.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperDynamoDbClient.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/storage/ScoreKeeperGame.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperGame.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/storage/ScoreKeeperGameData.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperGameData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/scorekeeper/storage/ScoreKeeperUserDataItem.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperUserDataItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/session/README.md" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/session/SessionSpeechlet.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/session/SessionSpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/session/speechAssets/IntentSchema.json" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/IntentSchema.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/session/speechAssets/SampleUtterances.txt" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/SampleUtterances.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/session/speechAssets/customSlotTypes/LIST_OF_COLORS" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/customSlotTypes/LIST_OF_COLORS" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/spacegeek/README.md" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/spacegeek/SpaceGeekSpeechlet.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/SpaceGeekSpeechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/spacegeek/SpaceGeekSpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/SpaceGeekSpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/spacegeek/speechAssets/IntentSchema.json" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets/IntentSchema.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/spacegeek/speechAssets/SampleUtterances.txt" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets/SampleUtterances.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/tidepooler/AlexaDateUtil.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/AlexaDateUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/tidepooler/README.md" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/tidepooler/TidePoolerSpeechlet.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/tidepooler/TidePoolerSpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/tidepooler/speechAssets/IntentSchema.json" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/IntentSchema.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/tidepooler/speechAssets/SampleUtterances.txt" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/SampleUtterances.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_CITIES" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_CITIES" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_STATES" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_STATES" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/wiseguy/README.md" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/wiseguy/WiseGuySpeechlet.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/WiseGuySpeechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/wiseguy/WiseGuySpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/WiseGuySpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/wiseguy/speechAssets/IntentSchema.json" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/IntentSchema.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/wiseguy/speechAssets/SampleUtterances.txt" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/SampleUtterances.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/java/wiseguy/speechAssets/customSlotTypes/LIST_OF_SETUP_NAMES" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/customSlotTypes/LIST_OF_SETUP_NAMES" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/Alexa/samples/src/main/resources/log4j.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/Sdk.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/Sdk.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/ContextDeserializer.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/ContextDeserializer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/ContextSerializer.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/ContextSerializer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SerializedInterface.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SerializedInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletRequestBeanDeserializerModifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletRequestBeanDeserializerModifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletRequestBeanSerializerModifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletRequestBeanSerializerModifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletRequestEnvelope.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletRequestEnvelope.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletRequestModule.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletRequestModule.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletResponseEnvelope.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletResponseEnvelope.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SupportedInterfacesDeserializer.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SupportedInterfacesDeserializer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SupportedInterfacesSerializer.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SupportedInterfacesSerializer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/slu/Intent.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/slu/Intent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/slu/Slot.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/slu/Slot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/slu/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/slu/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Application.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Application.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Context.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Context.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/CoreSpeechletRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/CoreSpeechletRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Device.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Device.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Directive.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Directive.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/IntentRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/IntentRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Interface.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Interface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/LaunchRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/LaunchRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Session.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Session.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SessionEndedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SessionEndedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SessionStartedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SessionStartedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Speechlet.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Speechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletException.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletRequestDispatcher.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletRequestDispatcher.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletRequestHandler.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletRequestHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletRequestHandlerException.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletRequestHandlerException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletResponse.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletResponse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletV2.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletV2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/State.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/State.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SupportedInterfaces.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SupportedInterfaces.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/User.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/User.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/authentication/ApplicationIdVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/authentication/ApplicationIdVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/authentication/SpeechletRequestSignatureVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/authentication/SpeechletRequestSignatureVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/authentication/TimestampVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/authentication/TimestampVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/authentication/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/authentication/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioItem.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayer.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/ClearBehavior.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/ClearBehavior.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/Error.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/Error.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/ErrorType.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/ErrorType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/PlayBehavior.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/PlayBehavior.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/PlayerActivity.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/PlayerActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/Stream.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/Stream.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/ClearQueueDirective.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/ClearQueueDirective.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/PlayDirective.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/PlayDirective.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/StopDirective.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/StopDirective.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/AudioPlayerRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/AudioPlayerRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/PlaybackController.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/PlaybackController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlaybackControllerRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlaybackControllerRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/Error.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/Error.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/ErrorCause.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/ErrorCause.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/ErrorType.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/ErrorType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/System.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/System.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/SystemInterface.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/SystemInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/SystemState.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/SystemState.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/request/SystemRequest.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/request/SystemRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/request/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/request/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/lambda/LambdaSpeechletRequestHandler.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/lambda/LambdaSpeechletRequestHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/lambda/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/lambda/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/servlet/ServletSpeechletRequestHandler.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/servlet/ServletSpeechletRequestHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/servlet/SpeechletServlet.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/servlet/SpeechletServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/servlet/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/servlet/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestEnvelopeVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestEnvelopeVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/CardSpeechletResponseVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/CardSpeechletResponseVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifierWrapper.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifierWrapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/TimestampSpeechletRequestVerifier.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/TimestampSpeechletRequestVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/Card.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/Card.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/Image.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/Image.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/LinkAccountCard.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/LinkAccountCard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/OutputSpeech.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/OutputSpeech.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/PlainTextOutputSpeech.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/PlainTextOutputSpeech.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/Reprompt.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/Reprompt.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/SimpleCard.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/SimpleCard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/SsmlOutputSpeech.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/SsmlOutputSpeech.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/StandardCard.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/StandardCard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/package-info.java" afterPath="$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/package-info.java" />
+    </list>
+    <ignored path="alexa-skills-kit.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="alexa-skills-kit" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HelloWorldSpeechlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="142" column="1" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntentSchema.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LIST_OF_SETUP_NAMES" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/customSlotTypes/LIST_OF_SETUP_NAMES">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntentSchema.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/IntentSchema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.85987264">
+              <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SampleUtterances.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldSpeechletRequestStreamHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/README.md">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recipes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/Recipes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinecraftSpeechlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftSpeechlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/samples/src/main/java/helloworld/README.md" />
+        <option value="$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="22" />
+    <option name="width" value="1380" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JDRWChess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Alexa" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0770fcfc-c1e0-4fb7-929d-14813fd0750f" name="Default" comment="" />
+      <created>1490188361720</created>
+      <option name="number" value="Default" />
+      <updated>1490188361720</updated>
+      <workItem from="1490188367778" duration="272000" />
+      <workItem from="1490241314216" duration="2460000" />
+      <workItem from="1490277081740" duration="1740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4472000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="22" y="22" width="1380" height="877" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26681614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/README.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/README.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/Recipes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/README.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/README.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/README.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/Recipes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="142" column="1" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/customSlotTypes/LIST_OF_SETUP_NAMES">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/IntentSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85987264">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
