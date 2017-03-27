@@ -37,14 +37,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldSpeechletRequestStreamHandler.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloWorldSpeechletRequestStreamHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8881579">
-              <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.032894738">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,7 +74,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1489506850000" expanded="true" signature="0:118" placeholder="{...}" />
+                <marker date="1489506850000" expanded="true" signature="15:116" placeholder="[...]" />
+                <marker date="1489506850000" expanded="true" signature="21:63" placeholder="{&quot;intent&quot;: &quot;HelloWorldIntent&quot;...}" />
+                <marker date="1489506850000" expanded="true" signature="69:112" placeholder="{&quot;intent&quot;: &quot;AMAZON.HelpIntent&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,16 +159,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LIST_OF_PLAYER_NAMES" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/scorekeeper/speechAssets/customSlotTypes/LIST_OF_PLAYER_NAMES">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="645" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="GradleLocalSettings">
@@ -160,6 +175,7 @@
         <option value="$PROJECT_DIR$/samples/src/main/java/scorekeeper/ScoreKeeperSpeechletRequestStreamHandler.java" />
         <option value="$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json" />
         <option value="$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -313,6 +329,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="helloworld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit-java-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -601,12 +631,12 @@
       <created>1490579253181</created>
       <option name="number" value="Default" />
       <updated>1490579253181</updated>
-      <workItem from="1490579255674" duration="6252000" />
+      <workItem from="1490579255674" duration="6510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6252000" />
+    <option name="totallyTimeSpent" value="6510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1343" height="813" extended-state="0" />
@@ -768,9 +798,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1489506850000" expanded="true" signature="0:118" placeholder="{...}" />
+            <marker date="1489506850000" expanded="true" signature="15:116" placeholder="[...]" />
+            <marker date="1489506850000" expanded="true" signature="21:63" placeholder="{&quot;intent&quot;: &quot;HelloWorldIntent&quot;...}" />
+            <marker date="1489506850000" expanded="true" signature="69:112" placeholder="{&quot;intent&quot;: &quot;AMAZON.HelpIntent&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -784,11 +819,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8881579">
-          <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.032894738">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
