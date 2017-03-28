@@ -30,7 +30,7 @@ public final class ScoreKeeperSpeechletRequestStreamHandler extends SpeechletReq
          * Alexa Skill and put the relevant Application Ids in this Set.
          */
         supportedApplicationIds = new HashSet<String>();
-        // supportedApplicationIds.add("amzn1.echo-sdk-ams.app.[unique-value-here]");
+        //supportedApplicationIds.add("amzn1.ask.skill.d48f69a3-f6ba-4864-900f-9f43a5d4c930");
     }
 
     public ScoreKeeperSpeechletRequestStreamHandler() {

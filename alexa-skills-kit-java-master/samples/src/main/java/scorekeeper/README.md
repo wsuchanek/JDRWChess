@@ -31,6 +31,8 @@ To run this example skill you need to do two things. The first is to deploy the 
 13. Set the Event Source type as Alexa Skills kit and Enable it now. Click Submit.
 14. Copy the ARN from the top right to be used later in the Alexa Skill Setup.
 
+arn:aws:lambda:us-east-1:297051253240:function:Score-Keeper-Example-Skill
+
 ### AWS DynamoDB Setup
 1. Go to the AWS Console and click on [DynamoDB link](https://console.aws.amazon.com/dynamodb). Note: ensure you are in us-east (same as your Lambda)
 2. Click on CreateTable: set "ScoreKeeperUserData" as the table name, use String for the primary key type and set "CustomerId" as the hash attribute name.

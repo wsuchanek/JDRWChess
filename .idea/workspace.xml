@@ -2,7 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0770fcfc-c1e0-4fb7-929d-14813fd0750f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DreText" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_STATES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/customSlotTypes/LIST_OF_SETUP_NAMES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/SpaceGeekSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/Recipes.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/SpaceGeekSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SignedRequestsHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/customSlotTypes/LIST_OF_COLORS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/WiseGuySpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/WiseGuySpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/customSlotTypes/LIST_OF_ITEMS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/AlexaDateUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/customSlotTypes/LIST_OF_CATEGORIES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_CITIES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftHelperSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/SampleUtterances.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="alexa-skills-kit.iws" />
@@ -21,75 +69,600 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="alexa-skills-kit" />
+    <favorites_list name="alexa-skills-kit">
+      <favorite_root url="file://$PROJECT_DIR$" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/uiDesigner.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/Alexa" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/Alexa/src" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/Card.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/Image.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/Reprompt.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/SimpleCard.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/OutputSpeech.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/StandardCard.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/LinkAccountCard.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/SsmlOutputSpeech.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/ui/PlainTextOutputSpeech.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/slu" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/slu/Slot.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/slu/Intent.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/slu/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/ContextSerializer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/ContextDeserializer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SerializedInterface.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletRequestModule.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletRequestEnvelope.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletResponseEnvelope.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SupportedInterfacesSerializer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SupportedInterfacesDeserializer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletRequestBeanSerializerModifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/json/SpeechletRequestBeanDeserializerModifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/Sdk.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/lambda" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/lambda/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/lambda/LambdaSpeechletRequestHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/servlet" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/servlet/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/servlet/SpeechletServlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/servlet/ServletSpeechletRequestHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/CardSpeechletResponseVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifierWrapper.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/TimestampSpeechletRequestVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestEnvelopeVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/User.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/request" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/request/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/request/SystemRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/Error.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/System.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/ErrorType.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/ErrorCause.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/SystemState.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/system/SystemInterface.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/AudioPlayerRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/PlayDirective.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/StopDirective.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/ClearQueueDirective.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/Error.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/Stream.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioItem.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/ErrorType.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/PlayBehavior.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/ClearBehavior.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/PlayerActivity.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlaybackControllerRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/PlaybackController.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/State.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Device.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Context.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Session.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/authentication" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/authentication/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/authentication/TimestampVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/authentication/ApplicationIdVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/authentication/SpeechletRequestSignatureVerifier.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Directive.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Interface.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Speechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/Application.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletV2.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/IntentRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/LaunchRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletResponse.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletException.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SessionEndedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SupportedInterfaces.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/CoreSpeechletRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SessionStartedRequest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletRequestHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletRequestDispatcher.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/speechlet/SpeechletRequestHandlerException.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/Card.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/Image.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/Reprompt.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/SimpleCard.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/OutputSpeech.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/StandardCard.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/LinkAccountCard.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/SsmlOutputSpeech.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/ui/PlainTextOutputSpeech.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/Slot.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/Intent.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/Slot.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/Intent.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/slu/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/SpeechletRequestModule.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/SpeechletRequestEnvelope.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/SpeechletResponseEnvelope.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/json/SpeechletRequestEnvelope.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/Sdk.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/LambdaSpeechletRequestHandler.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/SpeechletServlet.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/servlet/ServletSpeechletRequestHandler.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/CardSpeechletResponseVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifierWrapper.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/TimestampSpeechletRequestVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestEnvelopeVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/User.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/SystemRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/Error.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/System.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/ErrorType.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/ErrorCause.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemState.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/Error.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemInterface.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/ErrorCause.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemState.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/system/SystemInterface.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/AudioPlayerRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/PlayDirective.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/StopDirective.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/directive/ClearQueueDirective.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/Error.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/Stream.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioItem.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/ErrorType.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayer.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/PlayBehavior.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/ClearBehavior.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/PlayerActivity.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlaybackControllerRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/interfaces/playbackcontroller/PlaybackController.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/State.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Device.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Context.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Session.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/TimestampVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/ApplicationIdVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/authentication/SpeechletRequestSignatureVerifier.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Directive.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Interface.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Speechlet.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Application.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletV2.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/User.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/IntentRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/LaunchRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Device.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Context.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/Session.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletResponse.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletException.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionEndedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SupportedInterfaces.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/CoreSpeechletRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/IntentRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/LaunchRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionStartedRequest.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequestHandler.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionEndedRequest.Reason.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequestDispatcher.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionEndedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SupportedInterfaces.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SessionStartedRequest.Builder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequestHandlerException.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/speechlet/SpeechletRequest.SpeechletRequestBuilder.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/package-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/package-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/com/amazon/speech/package-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/script.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/index.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/package-list" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/help-doc.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/index-all.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/stylesheet.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/overview-tree.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/overview-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/constant-values.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/deprecated-list.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/serialized-form.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/allclasses-frame.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/overview-summary.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/javadoc/allclasses-noframe.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/Alexa/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Alexa/samples" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/session" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/session/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/customSlotTypes" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/customSlotTypes/LIST_OF_COLORS" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/IntentSchema.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/SampleUtterances.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/customSlotTypes" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/customSlotTypes/LIST_OF_SETUP_NAMES" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/IntentSchema.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/SampleUtterances.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/WiseGuySpeechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/WiseGuySpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets/IntentSchema.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets/SampleUtterances.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/SpaceGeekSpeechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/SpaceGeekSpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/IntentSchema.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_CITIES" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_STATES" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/IntentSchema.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/SampleUtterances.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/AlexaDateUtil.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets/IntentSchema.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets/SampleUtterances.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperDao.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperGame.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperGameData.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperUserDataItem.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/storage/ScoreKeeperDynamoDbClient.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/speechAssets" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/speechAssets/customSlotTypes" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/speechAssets/customSlotTypes/LIST_OF_PLAYER_NAMES" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/speechAssets/IntentSchema.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/speechAssets/SampleUtterances.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/SkillContext.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/ScoreKeeperManager.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/ScoreKeeperTextUtil.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/ScoreKeeperSpeechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/ScoreKeeperSpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/customSlotTypes" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/customSlotTypes/LIST_OF_CATEGORIES" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/IntentSchema.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/SampleUtterances.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SignedRequestsHelper.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/Recipes.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/customSlotTypes" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/customSlotTypes/LIST_OF_ITEMS" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/IntentSchema.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/SampleUtterances.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftSpeechlet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftHelperSpeechletRequestStreamHandler.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/resources" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/src/main/resources/log4j.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/session" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/session/SessionSpeechlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/session/SessionSpeechletRequestStreamHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/wiseguy" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/wiseguy/WiseGuySpeechlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/wiseguy/WiseGuySpeechletRequestStreamHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/spacegeek" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/spacegeek/SpaceGeekSpeechlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/spacegeek/SpaceGeekSpeechletRequestStreamHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/helloworld" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/helloworld/HelloWorldSpeechlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/helloworld/HelloWorldSpeechletRequestStreamHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/tidepooler" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/tidepooler/AlexaDateUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/tidepooler/TidePoolerSpeechlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/tidepooler/TidePoolerSpeechletRequestStreamHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/historybuff" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/historybuff/HistoryBuffSpeechlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/historybuff/HistoryBuffSpeechletRequestStreamHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/storage" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/storage/ScoreKeeperDao.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/storage/ScoreKeeperGame.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/storage/ScoreKeeperGameData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/storage/ScoreKeeperUserDataItem.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/storage/ScoreKeeperDynamoDbClient.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/SkillContext.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/ScoreKeeperManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/ScoreKeeperTextUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/ScoreKeeperSpeechlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/scorekeeper/ScoreKeeperSpeechletRequestStreamHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/savvyconsumer" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/savvyconsumer/SignedRequestsHelper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/savvyconsumer/SavvyConsumerSpeechlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/savvyconsumer/SavvyConsumerSpeechletRequestStreamHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/Launcher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/minecrafthelper" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/minecrafthelper/Recipes.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/minecrafthelper/MinecraftSpeechlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/minecrafthelper/MinecraftHelperSpeechletRequestStreamHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/classes/log4j.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/archive-tmp" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/maven-status" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/maven-status/maven-compiler-plugin" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/maven-status/maven-compiler-plugin/compile" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/maven-status/maven-compiler-plugin/compile/default-compile" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                  </favorite_root>
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/maven-archiver" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/maven-archiver/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/generated-sources" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/generated-sources/annotations" module="alexa-skills-kit" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/alexa-skills-kit-samples-1.0.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/target/alexa-skills-kit-samples-1.0-jar-with-dependencies.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/.gitignore" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/Alexa/samples/build.gradle" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/Alexa/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Alexa/.gitignore" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Alexa/NOTICE.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/Alexa/LICENSE.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloWorldSpeechlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntentSchema.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleUtterances.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWorldSpeechletRequestStreamHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DreText" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DreText">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,7 +675,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DreText" />
+        <option value="$PROJECT_DIR$/samples/src/main/java/helloworld/README.md" />
+        <option value="$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" />
+        <option value="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" />
+        <option value="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" />
+        <option value="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/README.md" />
       </list>
     </option>
   </component>
@@ -150,35 +727,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="alexa-skills-kit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alexa-skills-kit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="JDRWChess" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/alexa-skills-kit-java-master" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Alexa" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -194,7 +770,7 @@
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
@@ -219,7 +795,7 @@
       <option name="CLASS_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
@@ -254,68 +830,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -356,7 +870,7 @@
           <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
           <option name="launcherType" value="OSDefault" />
           <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
         </LauncherParameters>
       </option>
       <option name="mobileRunTarget" value="Emulator" />
@@ -379,7 +893,7 @@
           <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
           <option name="launcherType" value="OSDefault" />
           <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
         </LauncherParameters>
       </option>
       <option name="moduleName" value="" />
@@ -406,7 +920,8 @@
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -431,74 +946,12 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="alexa-skills-kit" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -543,41 +996,13 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
       <envs />
       <method />
     </configuration>
@@ -591,6 +1016,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0770fcfc-c1e0-4fb7-929d-14813fd0750f" name="Default" comment="" />
@@ -599,16 +1027,19 @@
       <option name="presentableId" value="Default" />
       <updated>1490188361720</updated>
       <workItem from="1490188367778" duration="272000" />
-      <workItem from="1490190627552" duration="1479000" />
+      <workItem from="1490241314216" duration="2460000" />
+      <workItem from="1490277081740" duration="5308000" />
+      <workItem from="1490578541272" duration="65000" />
+      <workItem from="1490622825509" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1751000" />
+    <option name="totallyTimeSpent" value="8127000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -618,10 +1049,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23200513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2667095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -655,101 +1086,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DreText">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/README.md" />
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java" />
+    <entry file="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/README.md" />
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java" />
   </component>
 </project>
