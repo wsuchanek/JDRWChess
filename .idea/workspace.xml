@@ -2,55 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0770fcfc-c1e0-4fb7-929d-14813fd0750f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets/SampleUtterances.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/SampleUtterances.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets/IntentSchema.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechletRequestStreamHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/IntentSchema.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/SampleUtterances.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_STATES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/customSlotTypes/LIST_OF_ITEMS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SignedRequestsHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/customSlotTypes/LIST_OF_COLORS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/IntentSchema.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/customSlotTypes/LIST_OF_SETUP_NAMES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/IntentSchema.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets/SampleUtterances.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/SampleUtterances.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftSpeechlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechletRequestStreamHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_CITIES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechletRequestStreamHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_STATES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/customSlotTypes/LIST_OF_SETUP_NAMES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/SpaceGeekSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechlet.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/customSlotTypes/LIST_OF_CATEGORIES" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftSpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechletRequestStreamHandler.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/Recipes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftHelperSpeechletRequestStreamHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/AlexaDateUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechlet.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/SpaceGeekSpeechlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/SampleUtterances.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/WiseGuySpeechletRequestStreamHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/IntentSchema.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/IntentSchema.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/IntentSchema.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/historybuff/HistoryBuffSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SignedRequestsHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/customSlotTypes/LIST_OF_COLORS" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/WiseGuySpeechlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/WiseGuySpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/speechAssets/IntentSchema.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/README.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/customSlotTypes/LIST_OF_ITEMS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/AlexaDateUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/customSlotTypes/LIST_OF_CATEGORIES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/TidePoolerSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/speechAssets/IntentSchema.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/wiseguy/speechAssets/SampleUtterances.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/tidepooler/speechAssets/customSlotTypes/LIST_OF_CITIES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/savvyconsumer/SavvyConsumerSpeechlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/spacegeek/SpaceGeekSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/minecrafthelper/MinecraftHelperSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/SessionSpeechletRequestStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Alexa/samples/src/main/java/session/speechAssets/SampleUtterances.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="alexa-skills-kit.iws" />
@@ -64,7 +64,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -663,34 +662,7 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="2.167043">
-                <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45783132">
-              <caret line="86" column="64" selection-start-line="86" selection-start-column="64" selection-end-line="86" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -711,9 +683,11 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -722,14 +696,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
-    <option name="y" value="22" />
-    <option name="width" value="1380" />
-    <option name="height" value="877" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -752,8 +723,14 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -765,15 +742,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Alexa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/alexa-skills-kit-java-master" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="FullScreen" value="false" />
@@ -792,22 +765,26 @@
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -817,18 +794,20 @@
       <option name="METHOD_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -851,15 +830,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ClojureREPL" factoryName="Local">
-      <setting name="replType" value="1" />
-      <module name="" />
-      <setting name="jvmArgs" value="" />
-      <setting name="parameters" value="" />
-      <setting name="workingDir" value="" />
-      <setting name="profiles" value="" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -947,13 +917,12 @@
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
       <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1028,6 +997,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -1043,7 +1013,9 @@
       <method />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -1052,46 +1024,50 @@
       <changelist id="0770fcfc-c1e0-4fb7-929d-14813fd0750f" name="Default" comment="" />
       <created>1490188361720</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1490188361720</updated>
       <workItem from="1490188367778" duration="272000" />
       <workItem from="1490241314216" duration="2460000" />
       <workItem from="1490277081740" duration="5308000" />
       <workItem from="1490578541272" duration="65000" />
+      <workItem from="1490622825509" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8105000" />
+    <option name="totallyTimeSpent" value="8127000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="22" width="1380" height="877" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26681614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2667095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1110,65 +1086,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="86" column="64" selection-start-line="86" selection-start-column="64" selection-end-line="86" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/README.md">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7036247">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="2.167043">
-            <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45783132">
-          <caret line="86" column="64" selection-start-line="86" selection-start-column="64" selection-end-line="86" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/README.md" />
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java" />
+    <entry file="file://$PROJECT_DIR$/Alexa/src/com/amazon/speech/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/scorekeeper/README.md" />
+    <entry file="file://$PROJECT_DIR$/Alexa/samples/src/main/java/Launcher.java" />
   </component>
 </project>
