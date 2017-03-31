@@ -306,36 +306,35 @@ public class Chess {
                 this.board.getSquare(end[0], end[1]).setPiece(recRem);
             } else {
                 Piece p;
-                if(wasPieceCaptured == 11) {
+                if (wasPieceCaptured == 11) {
                     p = this.board.getSquare(end[0], end[1] - 1).removePiece();
                     this.board.getSquare(end[0], end[1] + 1).setPiece(p);
-                } else if(wasPieceCaptured == 12) {
+                } else if (wasPieceCaptured == 12) {
                     p = this.board.getSquare(end[0], end[1] + 1).removePiece();
                     this.board.getSquare(end[0], end[1] - 2).setPiece(p);
-                } else if(wasPieceCaptured == 21) {
-                    p = (Piece)this.recentlyRem.remove(this.recentlyRem.size() - 1);
+                } else if (wasPieceCaptured == 21) {
+                    p = (Piece) this.recentlyRem.remove(this.recentlyRem.size() - 1);
                     this.board.getSquare(end[0] + 1, end[1]).setPiece(p);
-                } else if(wasPieceCaptured == 22) {
-                    p = (Piece)this.recentlyRem.remove(this.recentlyRem.size() - 1);
+                } else if (wasPieceCaptured == 22) {
+                    p = (Piece) this.recentlyRem.remove(this.recentlyRem.size() - 1);
                     this.board.getSquare(end[0] - 1, end[1]).setPiece(p);
                 } else {
                     Pawn p1;
-                    if(wasPieceCaptured == 31) {
+                    if (wasPieceCaptured == 31) {
                         p1 = new Pawn(toMove.getColor(), this.board);
-                        ((Pawn)p1).incMoveCount();
+                        ((Pawn) p1).incMoveCount();
                         this.board.getSquare(start[0], start[1]).removePiece();
                         this.board.getSquare(start[0], start[1]).setPiece(p1);
-                    } else if(wasPieceCaptured == 32) {
+                    } else if (wasPieceCaptured == 32) {
                         p1 = new Pawn(toMove.getColor(), this.board);
-                        ((Pawn)p1).incMoveCount();
+                        ((Pawn) p1).incMoveCount();
                         this.board.getSquare(start[0], start[1]).removePiece();
                         this.board.getSquare(start[0], start[1]).setPiece(p1);
-                        recRem = (Piece)this.recentlyRem.remove(this.recentlyRem.size() - 1);
+                        recRem = (Piece) this.recentlyRem.remove(this.recentlyRem.size() - 1);
                         this.board.getSquare(end[0], end[1]).setPiece(recRem);
                     }
                 }
             }
-
         }
     }
 
@@ -478,7 +477,6 @@ public class Chess {
                 }
             }
         }
-
     }
 
     public static void main(String[] args) {

@@ -2,11 +2,18 @@ package production.DanChunn.Chess;
 
 import org.junit.Test;
 import org.junit.Assert;
+import production.DanChunn.Game.Board;
+import production.DanChunn.Game.Player;
+import production.DanChunn.Pieces.King;
+import production.DanChunn.Pieces.Piece;
+import production.DanChunn.util.Color;
 
 /**
  * Created by jotsandhu on 3/28/17.
  *
  * Edited by wsuchanek on 3/29/17.
+ *
+ * Edited by rdebolt on 2/29/17
  */
 public class MyTestClass {
 
@@ -31,5 +38,11 @@ public class MyTestClass {
     public void willTestTest(){
         Chess willChess = new Chess();
         Assert.assertEquals(2, willChess.players.length);
+    }
+
+    @Test
+    public void RTest (){
+        Chess Rchess = new Chess();
+        Assert.assertEquals(false, Rchess.board.isSpotEmpty(2,2));
     }
 }

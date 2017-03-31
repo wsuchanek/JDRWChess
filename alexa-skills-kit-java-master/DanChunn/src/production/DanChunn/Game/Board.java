@@ -29,7 +29,6 @@ public class Board {
                 this.board[i][j] = new Square(i, this.files[j]);
             }
         }
-
     }
 
     public void addPieces(Player player) {
@@ -46,7 +45,6 @@ public class Board {
                 tempP = new Pawn(Color.Black, this);
                 this.board[6][i].setPiece(tempP);
             }
-
             var5 = new Rook(Color.Black, this);
             this.board[7][0].setPiece(var5);
             var5 = new Rook(Color.Black, this);
