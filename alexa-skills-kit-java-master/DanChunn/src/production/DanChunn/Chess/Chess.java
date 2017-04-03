@@ -17,12 +17,14 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import production.DanChunn.util.Color;
+import production.DanChunn.util.LastMoveQueue;
 
 public class Chess {
     Board board;
     Player[] players = new Player[2];
     List<Piece> recentlyRem;
     boolean draw;
+    LastMoveQueue lastMoves = new LastMoveQueue();
 
     public Chess() {
         this.players[0] = new Player(Color.White);
@@ -84,7 +86,9 @@ public class Chess {
                             this.draw = false;
                             System.out.println("\nError: Incorrect input.\n");
                         }
-                    } else {
+                    } else if(argv[0].equals("repeat")) {
+                        lastMoves.printLastFiveMoves();
+                    }else{
                         System.out.println("\nError: Incorrect input.");
                     }
                 } else if(argv.length >= 2 && argv.length <= 3) {
@@ -171,9 +175,11 @@ public class Chess {
                             System.exit(1);
                         }
                     }
+                    lastMoves.enqueue(line);
                 } else {
                     System.out.println("\nError: Incorrect input.");
                 }
+
             }
         }
     }

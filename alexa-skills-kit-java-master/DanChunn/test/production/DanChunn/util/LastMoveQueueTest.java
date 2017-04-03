@@ -20,7 +20,7 @@ public class LastMoveQueueTest {
         moves.enqueue("d1 d2");
         moves.enqueue("e1 e2");
         moves.enqueue("f1 f2");
-        Assert.assertEquals(5,moves.size());
+        Assert.assertEquals(6,moves.size());
     }
     //Properly returns the 5 most recent moves
     @Test
@@ -32,7 +32,15 @@ public class LastMoveQueueTest {
         String move4 = "d1 d2";
         String move5 = "e1 e2";
         String move6 = "f1 f2";
+        Assert.assertEquals(null,moves.printLastFiveMoves());
+
         moves.enqueue(move1);
+
+        //Tests it works with only 1 item in list
+        List<String> testList1 = new ArrayList<String>();
+        testList1.add(move1);
+        Assert.assertEquals(testList1,moves.printLastFiveMoves());
+
         moves.enqueue(move2);
         moves.enqueue(move3);
         moves.enqueue(move4);
@@ -40,13 +48,12 @@ public class LastMoveQueueTest {
         moves.enqueue(move6);
 
 
-        List<String> last5 = moves.printLastFiveMoves();
-        List<String> testList = new ArrayList<String>();
-        testList.add(move6);
-        testList.add(move5);
-        testList.add(move4);
-        testList.add(move3);
-        testList.add(move2);
-        Assert.assertEquals(testList,last5);
+        List<String> testList2 = new ArrayList<String>();
+        testList2.add(move6);
+        testList2.add(move5);
+        testList2.add(move4);
+        testList2.add(move3);
+        testList2.add(move2);
+        Assert.assertEquals(testList2,moves.printLastFiveMoves());
     }
 }

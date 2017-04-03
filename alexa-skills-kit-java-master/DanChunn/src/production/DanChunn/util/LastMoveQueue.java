@@ -12,9 +12,6 @@ public class LastMoveQueue<String> implements Iterable<String> {
     private LinkedList<String> elements = new LinkedList<String>();
 
     public void enqueue(String element) {
-        if (this.size() >= 5){
-            this.dequeue();
-        }
         elements.add(element);
     }
 
@@ -38,17 +35,22 @@ public class LastMoveQueue<String> implements Iterable<String> {
         return elements.isEmpty();
     }
     public List<String> printLastFiveMoves(){
+
         if (this.isEmpty()){
-            System.out.println("No moves have been made.");
+            System.out.println("\nNo moves have been made.\n");
             return null;
         } else {
             List<String> moves = new ArrayList<String>();
-            System.out.println("The last 5 moves from most recent to oldest: ");
-            for (int i = this.size()-1; i >= 0; i--){
+            System.out.println("\nThe last 5 moves from most recent to oldest: ");
+            for (int i = this.size()-1; i >= this.size()-5; i--){
                 String current = this.elements.get(i);
                 System.out.println(current);
                 moves.add(current);
+                if (i == 0){
+                    break;
+                }
             }
+            System.out.println();
             return moves;
         }
     }
