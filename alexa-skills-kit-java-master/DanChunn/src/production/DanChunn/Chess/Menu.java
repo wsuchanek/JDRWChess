@@ -1,7 +1,5 @@
 package production.DanChunn.Chess;
-import java.io.InputStream;
 import java.util.Scanner;
-import production.DanChunn.Chess.Chess;
 /**
  * Created by Ryan on 4/3/2017.
  */
