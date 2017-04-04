@@ -88,6 +88,9 @@ public class Chess {
                         }
                     } else if(argv[0].equals("repeat")) {
                         lastMoves.printLastFiveMoves();
+                    }else if(argv[0].equals("resign")) {
+                        lastMoves.saveGameFile();
+                        System.exit(1);
                     }else{
                         System.out.println("\nError: Incorrect input.");
                     }

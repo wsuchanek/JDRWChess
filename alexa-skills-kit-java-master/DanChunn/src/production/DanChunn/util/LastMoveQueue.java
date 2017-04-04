@@ -1,26 +1,32 @@
 package production.DanChunn.util;
 
-import java.util.Queue;
-import java.util.Stack;
-import java.util.*;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.ArrayList;
+import java.io.File;
+import java.util.Iterator;
+
 
 /**
  * Created by willsuchanek on 4/3/17.
  */
-public class LastMoveQueue<String> implements Iterable<String> {
 
-    private LinkedList<String> elements = new LinkedList<String>();
+public class LastMoveQueue{
+
+    private ArrayList<String> elements = new ArrayList<>();
 
     public void enqueue(String element) {
         elements.add(element);
     }
 
     public String dequeue() {
-        return elements.removeFirst();
+        return elements.remove(elements.size() - 1);
     }
 
     public String peek() {
-        return elements.getFirst();
+        return elements.get(0);
     }
 
     public void clear() {
@@ -34,6 +40,7 @@ public class LastMoveQueue<String> implements Iterable<String> {
     public boolean isEmpty() {
         return elements.isEmpty();
     }
+
     public List<String> printLastFiveMoves(){
 
         if (this.isEmpty()){
@@ -54,9 +61,23 @@ public class LastMoveQueue<String> implements Iterable<String> {
             return moves;
         }
     }
+    public String saveGameFile(){
+        String strToOut = "";
 
-    @Override
-    public Iterator<String> iterator() {
-        return elements.iterator();
+        for (String line: elements){
+            strToOut+=line+"\n";
+        }
+        File file = new File("DanChunn/src/production/DanChunn/util/save.txt");
+        file.delete();
+        try {
+            FileWriter writer = new FileWriter("DanChunn/src/production/DanChunn/util/save.txt",true);
+            writer.write(strToOut);
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return strToOut;
+
     }
+
 }

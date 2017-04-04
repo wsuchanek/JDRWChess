@@ -5,6 +5,7 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.io.File;
 
 /**
  * Created by willsuchanek on 4/3/17.
@@ -55,5 +56,33 @@ public class LastMoveQueueTest {
         testList2.add(move3);
         testList2.add(move2);
         Assert.assertEquals(testList2,moves.printLastFiveMoves());
+    }
+
+    @Test
+    public void saveGameTest(){
+        LastMoveQueue moves = new LastMoveQueue();
+        String move1 = "a1 a2";
+        String move2 = "b1 b2";
+        String move3 = "c1 c2";
+        String move4 = "d1 d2";
+        String move5 = "e1 e2";
+        String move6 = "f1 f2";
+        moves.enqueue(move1);
+        moves.enqueue(move2);
+        moves.enqueue(move3);
+        moves.enqueue(move4);
+        moves.enqueue(move5);
+        moves.enqueue(move6);
+
+        String moveFile = moves.saveGameFile();
+
+        String testString = "a1 a2\nb1 b2\nc1 c2\n" +
+                "d1 d2\ne1 e2\n" +
+                "f1 f2\n";
+        Assert.assertEquals(testString,moveFile);
+
+
+
+
     }
 }
