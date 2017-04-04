@@ -88,7 +88,7 @@ public class Chess {
                         }
                     } else if(argv[0].equals("repeat")) {
                         lastMoves.printLastFiveMoves();
-                    }else if(argv[0].equals("resign")) {
+                    }else if(argv[0].equals("quit")) {
                         lastMoves.saveGameFile();
                         System.exit(1);
                     }else{
