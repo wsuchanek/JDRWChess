@@ -5,27 +5,31 @@ import java.util.Scanner;
  */
 public class Menu {
 
-    public void menus(){
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Welcome to Chess");
-        System.out.println("----------------");
-        System.out.println("Start Game    [1]");
-        System.out.println("Continue Game [2]");
-        System.out.println("Quit Game     [3]");
-        System.out.println("----------------");
+    public static void main(String[] args) {
+        boolean inputCheck = true;
+        while (true){
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Welcome to Chess");
+            System.out.println("-----------------");
+            System.out.println("Start Game    [1]");
+            System.out.println("Continue Game [2]");
+            System.out.println("Quit Game     [3]");
+            System.out.println("-----------------");
 
-        int input = scanner.nextInt();
+            int input = scanner.nextInt();
 
-        if (input == 1){
-            Chess game = new Chess();
-            game.start();
-        }
-        if (input == 2){
-            return;
+            if (input == 1){
+                Chess game = new Chess();
+                game.start();
+                inputCheck = false;
+            }
+            if (input == 2){
+                return;
             /* run continued game */
-        }
-        if (input == 3){
-            return;
+            }
+            if (input == 3){
+                return;
+            }
         }
     }
 }
