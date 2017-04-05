@@ -1,6 +1,8 @@
 *.class
 .idea/workspace.xml
 DanChunn/.idea
+.idea
+DanChunn/src/production/.DS_Store
 
 
 # Mobile Tools for Java (J2ME)
