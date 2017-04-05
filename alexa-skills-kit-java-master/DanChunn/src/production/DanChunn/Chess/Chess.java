@@ -2,6 +2,7 @@ package production.DanChunn.Chess;
 
 
 import production.DanChunn.Chess.Check;
+import production.DanChunn.Game.AI;
 import production.DanChunn.Game.Board;
 import production.DanChunn.Game.Player;
 import production.DanChunn.Pieces.Bishop;
@@ -25,6 +26,7 @@ public class Chess {
     List<Piece> recentlyRem;
     boolean draw;
     LastMoveQueue lastMoves = new LastMoveQueue();
+    AI myAi;
 
     public Chess() {
         this.players[0] = new Player(Color.White);
@@ -34,6 +36,7 @@ public class Chess {
         this.board.addPieces(this.players[1]);
         this.recentlyRem = new ArrayList();
         this.draw = false;
+        myAi = new AI();
     }
 
     public void printBoard() {
@@ -57,44 +60,41 @@ public class Chess {
                 while(true) {
                     if(i == 0) {
                         System.out.print("White\'s move (Format - a2 a3): ");
+                        try {
+                            line = in.readLine();
+                            break;
+                        } catch (IOException var11) {
+                            System.out.println("Error: No moved specified");
+                        }
+
                     } else {
-                        System.out.print("Black\'s move:(Format - a7 a6) : ");
-                    }
-
-                    try {
-                        line = in.readLine();
+                        line = (String) "a7 a6";
                         break;
-                    } catch (IOException var11) {
-                        System.out.println("Error: No moved specified");
+                        //System.out.print("Black\'s move:(Format - a7 a6) : ");
                     }
-                }
 
+                }
                 String[] argv = line.split(" ");
-                if(argv.length == 0) {
+                if (argv.length == 0) {
                     System.out.println("\nError: No moved specified");
-                } else if(argv.length == 1) {
-                    if(argv[0].equals("resign")) {
-                        if(i == 0) {
+                } else if (argv.length == 1) {
+                    if (argv[0].equals("resign")) {
+                        if (i == 0) {
                             System.exit(1);
                         } else {
                             System.exit(1);
                         }
-                    } else if(this.draw) {
-                        if(argv[0].equals("draw")) {
+                    } else if (this.draw) {
+                        if (argv[0].equals("draw")) {
                             System.exit(1);
                         } else {
                             this.draw = false;
                             System.out.println("\nError: Incorrect input.\n");
                         }
-                    } else if(argv[0].equals("repeat")) {
-                        lastMoves.printLastFiveMoves();
-                    }else if(argv[0].equals("quit")) {
-                        lastMoves.saveGameFile();
-                        System.exit(1);
-                    }else{
+                    } else {
                         System.out.println("\nError: Incorrect input.");
                     }
-                } else if(argv.length >= 2 && argv.length <= 3) {
+                } else if (argv.length >= 2 && argv.length <= 3) {
                     try {
                         start = this.translatePos(argv[0]);
                         end = this.translatePos(argv[1]);
@@ -104,20 +104,39 @@ public class Chess {
                     }
 
                     int success1;
-                    try {
-                        success1 = this.attemptMove(start, end, this.players[i]);
-                    } catch (IllegalArgumentException var13) {
-                        System.out.println("\nIllegal Move, try again.\n");
-                        continue;
+                    //System.out.println("UStartY: " + start[0] + " UStartX: " + start[1]);
+                    //System.out.println("UEndY: " + end[0] + " UEndX: " + end[1]);
+                    //System.out.println("UPlayer: " + this.players[i].toString());
+
+
+                    if(i == 0) {
+                        try {
+
+                            success1 = this.attemptMove(start, end, this.players[i]);
+
+                        } catch (IllegalArgumentException var13) {
+                            System.out.println("\nIllegal Move, try again.\n");
+                            continue;
+                        }
+                    }else{
+                        //MAKE ALEXA's Move:
+                        try {
+
+                            success1 = myAi.makeRandMove(board.posList,board,this.players[i],this);
+
+                        } catch (IllegalArgumentException var13) {
+                            System.out.println("\nIllegal Move, try again.\n");
+                            continue;
+                        }
                     }
 
                     this.draw = false;
-                    if(argv.length == 3 && argv[2].equals("draw?")) {
+                    if (argv.length == 3 && argv[2].equals("draw?")) {
                         this.draw = true;
                     }
 
                     this.players[i].addMove(argv[0] + " " + argv[1]);
-                    if(success1 == 31 || success1 == 32 || success1 == 33 || success1 == 34) {
+                    if (success1 == 31 || success1 == 32 || success1 == 33 || success1 == 34) {
                         try {
                             this.promotePawn(end, argv.length, argv);
                         } catch (IllegalArgumentException var12) {
@@ -132,9 +151,9 @@ public class Chess {
                     }
 
                     King king;
-                    if(this.players[i].isInCheck()) {
-                        king = (King)this.players[i].getKingRef();
-                        if(Check.scanCheck(king.getPosition().getRank(), king.getPosition().getFile(), king.getColor(), king.board)) {
+                    if (this.players[i].isInCheck()) {
+                        king = (King) this.players[i].getKingRef();
+                        if (Check.scanCheck(king.getPosition().getRank(), king.getPosition().getFile(), king.getColor(), king.board)) {
                             line = this.players[i].getLastMove();
                             argv = line.split(" ");
                             start = this.translatePos(argv[0]);
@@ -146,8 +165,8 @@ public class Chess {
 
                         this.players[i].notCheck();
                     } else {
-                        king = (King)this.players[i].getKingRef();
-                        if(Check.scanCheck(king.getPosition().getRank(), king.getPosition().getFile(), king.getColor(), king.board)) {
+                        king = (King) this.players[i].getKingRef();
+                        if (Check.scanCheck(king.getPosition().getRank(), king.getPosition().getFile(), king.getColor(), king.board)) {
                             line = this.players[i].getLastMove();
                             argv = line.split(" ");
                             start = this.translatePos(argv[0]);
@@ -161,15 +180,15 @@ public class Chess {
                     this.printBoard();
                     this.resetEnPassent(i);
                     i = (i + 1) % 2;
-                    king = (King)this.players[i].getKingRef();
+                    king = (King) this.players[i].getKingRef();
                     int check1 = this.isCheckMate(king);
-                    if(check1 != 0) {
-                        if(check1 == 11) {
+                    if (check1 != 0) {
+                        if (check1 == 11) {
                             System.out.println("\nCheck\n");
                             this.players[i].inCheck();
                         } else {
                             System.out.println("\nCheckmate\n");
-                            if(i == 0) {
+                            if (i == 0) {
                                 System.out.println("Black wins");
                             } else {
                                 System.out.println("White wins");
@@ -178,12 +197,11 @@ public class Chess {
                             System.exit(1);
                         }
                     }
-                    lastMoves.enqueue(line);
                 } else {
                     System.out.println("\nError: Incorrect input.");
                 }
-
             }
+
         }
     }
 

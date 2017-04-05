@@ -11,10 +11,13 @@ import production.DanChunn.Pieces.Queen;
 import production.DanChunn.Pieces.Rook;
 import production.DanChunn.util.Color;
 
+import java.util.ArrayList;
+
 public class Board {
     Square[][] board;
     char[] files = new char[]{'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'};
     public Player[] players;
+    public ArrayList<int[]> posList;    //list of positions
 
     public Board(Player[] players) {
         this.players = players;
@@ -91,9 +94,13 @@ public class Board {
 
     public void printBoard() {
         int i;
+        ArrayList<int[]> temp = new ArrayList<>();
         for(i = 7; i > -1; --i) {
             for(int j = 0; j < 8; ++j) {
                 Piece tempP = this.board[i][j].getPiece();
+                int[] coordinates = new int[2];
+                coordinates[0] = i;
+                coordinates[1] = j;
                 if(tempP == null) {
                     if(this.board[i][j].sqrColor == Color.White) {
                         System.out.print("   ");
@@ -105,36 +112,44 @@ public class Board {
                 if(tempP instanceof Pawn) {
                     if(tempP.getColor() == Color.Black) {
                         System.out.print(" bp");
+                        temp.add(coordinates);
+
                     } else {
                         System.out.print(" wp");
+
                     }
                 } else if(tempP instanceof Rook) {
                     if(tempP.getColor() == Color.Black) {
                         System.out.print(" bR");
+                        temp.add(coordinates);
                     } else {
                         System.out.print(" wR");
                     }
                 } else if(tempP instanceof Knight) {
                     if(tempP.getColor() == Color.Black) {
                         System.out.print(" bN");
+                        temp.add(coordinates);
                     } else {
                         System.out.print(" wN");
                     }
                 } else if(tempP instanceof Bishop) {
                     if(tempP.getColor() == Color.Black) {
                         System.out.print(" bB");
+                        temp.add(coordinates);
                     } else {
                         System.out.print(" wB");
                     }
                 } else if(tempP instanceof Queen) {
                     if(tempP.getColor() == Color.Black) {
                         System.out.print(" bQ");
+                        temp.add(coordinates);
                     } else {
                         System.out.print(" wQ");
                     }
                 } else if(tempP instanceof King) {
                     if(tempP.getColor() == Color.Black) {
                         System.out.print(" bK");
+                        temp.add(coordinates);
                     } else {
                         System.out.print(" wK");
                     }
@@ -143,6 +158,7 @@ public class Board {
 
             System.out.println(" " + (i + 1));
         }
+        posList = temp;
 
         for(i = 0; i < 8; ++i) {
             System.out.print("  " + this.files[i]);
