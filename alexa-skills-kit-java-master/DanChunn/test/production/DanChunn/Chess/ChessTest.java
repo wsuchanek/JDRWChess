@@ -15,7 +15,7 @@ import production.DanChunn.util.Color;
  *
  * Edited by rdebolt on 2/29/17
  */
-public class MyTestClass {
+public class ChessTest {
 
     @Test
     public void testSomething(){

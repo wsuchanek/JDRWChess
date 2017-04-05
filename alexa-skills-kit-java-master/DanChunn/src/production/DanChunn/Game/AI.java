@@ -9,7 +9,7 @@ import java.util.ArrayList;
  */
 public  class AI {
     public AI(){
-    };
+    }
     public static int makeRandMove(ArrayList<int[]> inList, Board myBoard, Player myPlayer, Chess myChess) {
         /*
         InList: is a list of all the locations of all the pieces for the computer player
