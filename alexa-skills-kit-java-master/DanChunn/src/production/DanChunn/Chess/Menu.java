@@ -7,7 +7,7 @@ public class Menu {
 
     public static void main(String[] args) {
         boolean inputCheck = true;
-        while (true){
+        while (inputCheck) {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Welcome to Chess");
             System.out.println("-----------------");
@@ -17,19 +17,24 @@ public class Menu {
             System.out.println("-----------------");
 
             int input = scanner.nextInt();
-
-            if (input == 1){
-                Chess game = new Chess();
-                game.start();
+            if (input < 3) {
                 inputCheck = false;
             }
-            if (input == 2){
-                return;
+            processInput(input);
+        }
+    }
+
+    public static void processInput(int input) {
+        if (input == 1) {
+            Chess game = new Chess();
+            game.start();
+        }
+        if (input == 2) {
+            return;
             /* run continued game */
-            }
-            if (input == 3){
-                return;
-            }
+        }
+        if (input == 3) {
+            return;
         }
     }
 }
