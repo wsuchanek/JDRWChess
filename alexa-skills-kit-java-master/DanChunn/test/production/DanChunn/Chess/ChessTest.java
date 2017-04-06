@@ -45,4 +45,10 @@ public class ChessTest {
         Chess Rchess = new Chess();
         Assert.assertEquals(false, Rchess.board.isSpotEmpty(2,2));
     }
+
+    @Test
+    public void menuTest(){
+        Menu myMenu = new Menu();
+        myMenu.processInput(1);
+    }
 }
