@@ -91,7 +91,13 @@ public class Chess {
                             this.draw = false;
                             System.out.println("\nError: Incorrect input.\n");
                         }
-                    } else {
+                    } else if(argv[0].equals("repeat")) {
+                        lastMoves.printLastFiveMoves();
+                    }else if(argv[0].equals("quit")) {
+                        System.out.println("Game Saved, Quitting.");
+                        lastMoves.saveGameFile();
+                        System.exit(1);
+                    }else{
                         System.out.println("\nError: Incorrect input.");
                     }
                 } else if (argv.length >= 2 && argv.length <= 3) {
@@ -197,6 +203,7 @@ public class Chess {
                             System.exit(1);
                         }
                     }
+                    lastMoves.enqueue(line);
                 } else {
                     System.out.println("\nError: Incorrect input.");
                 }
