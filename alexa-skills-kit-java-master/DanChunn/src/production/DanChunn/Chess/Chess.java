@@ -65,24 +65,27 @@ public class Chess {
 
         if(task ==1){
             this.loadMoves();
+            if (LoadedMoves.size() > 0) {
 
-            for (int[] moves: LoadedMoves) {
-                loadstart[0] = moves[0];
-                System.out.println(moves[0]);
-                loadstart[1] = moves[1];
-                System.out.println(moves[1]);
-                loadend[0] = moves[2];
-                System.out.println(moves[2]);
-                loadend[1] = moves[3];
-                System.out.println(moves[3]);
-                this.attemptMove(loadstart,loadend,this.players[i]);
-                lastMoves.addMoves(moves);
-                if(i ==0){
-                    i =1;
+                for (int[] moves : LoadedMoves) {
+                    loadstart[0] = moves[0];
+                    //System.out.println(moves[0]);
+                    loadstart[1] = moves[1];
+                    //System.out.println(moves[1]);
+                    loadend[0] = moves[2];
+                    //System.out.println(moves[2]);
+                    loadend[1] = moves[3];
+                    //System.out.println(moves[3]);
+                    this.attemptMove(loadstart, loadend, this.players[i]);
+                    lastMoves.addMoves(moves);
+                    if (i == 0) {
+                        i = 1;
+                    } else {
+                        i = 0;
+                    }
                 }
-                else{
-                    i=0;
-                }
+            }else{
+                System.out.println("Sorry no game to load found");
             }
         }
         i=0;
