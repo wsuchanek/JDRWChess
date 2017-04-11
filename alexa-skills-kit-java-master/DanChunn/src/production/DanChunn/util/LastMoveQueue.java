@@ -17,9 +17,13 @@ public class LastMoveQueue{
 
     private ArrayList<String> elements = new ArrayList<>();
 
+    private ArrayList<int[]> numElem = new ArrayList<>();
+
     public void enqueue(String element) {
         elements.add(element);
     }
+
+    public void addMoves(int[] element) {numElem.add(element);}
 
     public String dequeue() {
         return elements.remove(elements.size() - 1);
@@ -67,10 +71,28 @@ public class LastMoveQueue{
         for (String line: elements){
             strToOut+=line+"\n";
         }
-        File file = new File("DanChunn/src/production/DanChunn/util/save.txt");
+        File file = new File("alexa-skills-kit-java-master/DanChunn/src/production/DanChunn/util/save.txt");
         file.delete();
         try {
-            FileWriter writer = new FileWriter("DanChunn/src/production/DanChunn/util/save.txt",true);
+            FileWriter writer = new FileWriter("alexa-skills-kit-java-master/DanChunn/src/production/DanChunn/util/save.txt",true);
+            writer.write(strToOut);
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return strToOut;
+
+    }
+    public String saveGameFileLoad(){
+        String strToOut = "";
+
+        for (int[] temp : numElem){
+            strToOut+=Integer.toString(temp[0]) + Integer.toString(temp[1]) + " " + Integer.toString(temp[2]) + Integer.toString(temp[3])+"\n";
+        }
+        File file = new File("alexa-skills-kit-java-master/DanChunn/src/production/DanChunn/util/Load.txt");
+        file.delete();
+        try {
+            FileWriter writer = new FileWriter("alexa-skills-kit-java-master/DanChunn/src/production/DanChunn/util/Load.txt",true);
             writer.write(strToOut);
             writer.close();
         } catch (IOException e) {

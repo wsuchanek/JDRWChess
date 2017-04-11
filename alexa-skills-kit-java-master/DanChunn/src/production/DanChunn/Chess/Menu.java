@@ -27,9 +27,11 @@ public class Menu {
     public static void processInput(int input) {
         if (input == 1) {
             Chess game = new Chess();
-            game.start();
+            game.start(0);
         }
         if (input == 2) {
+            Chess game = new Chess();
+            game.start(1);
             return;
             /* run continued game */
         }

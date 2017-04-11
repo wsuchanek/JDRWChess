@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/alexa-skills-kit-java-master/DanChunn/DanChunn.iml" filepath="$PROJECT_DIR$/alexa-skills-kit-java-master/DanChunn/DanChunn.iml" />
       <module fileurl="file://$PROJECT_DIR$/alexa-skills-kit-java-master/alexa-skills-kit-java-master.iml" filepath="$PROJECT_DIR$/alexa-skills-kit-java-master/alexa-skills-kit-java-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/alexa-skills-kit-java-master/samples/src/main/main.iml" filepath="$PROJECT_DIR$/alexa-skills-kit-java-master/samples/src/main/main.iml" />
     </modules>

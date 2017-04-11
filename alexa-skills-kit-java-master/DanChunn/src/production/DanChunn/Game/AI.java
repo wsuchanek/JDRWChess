@@ -2,6 +2,7 @@ package production.DanChunn.Game;
 
 import production.DanChunn.Chess.Chess;
 import production.DanChunn.Pieces.Piece;
+import production.DanChunn.util.LastMoveQueue;
 
 import java.util.ArrayList;
 /**
@@ -10,13 +11,15 @@ import java.util.ArrayList;
 public  class AI {
     public AI(){
     }
-    public static int makeRandMove(ArrayList<int[]> inList, Board myBoard, Player myPlayer, Chess myChess) {
+    public static int makeRandMove(ArrayList<int[]> inList, Board myBoard, Player myPlayer, Chess myChess, LastMoveQueue Queue) {
         /*
         InList: is a list of all the locations of all the pieces for the computer player
         returns sucess integer from attempt move function
          */
         int[] start = new int[2];
         int[] end = new int[2];
+
+        int[] out = new int[4]; //this array holds the values to be written out to the loading text file
         int success1 = -1;
         while (success1 == -1) {
             int randSpot = (int) (Math.random() * inList.size());
@@ -38,6 +41,18 @@ public  class AI {
                     //System.out.println("number 6");
                     try {
                         success1 = myChess.attemptMove(start, end, myPlayer);
+                        out[0] = start[0];
+                        out[1] = start[1];
+                        out[2] = end[0];
+                        out[3] = end[1];
+                        System.out.print(out[0]);
+                        System.out.print(out[1]);
+                        System.out.print(" ");
+                        System.out.print(out[2]);
+                        System.out.print(out[3]);
+                        System.out.print(" ");
+                        Queue.addMoves(out);
+
                         //System.out.println("SUCESSSSSSSS");
                         //System.out.println("AEndY: " + end[0] + " AEndX: " + end[1]);
 

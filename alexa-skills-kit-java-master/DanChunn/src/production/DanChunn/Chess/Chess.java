@@ -12,13 +12,14 @@ import production.DanChunn.Pieces.Pawn;
 import production.DanChunn.Pieces.Piece;
 import production.DanChunn.Pieces.Queen;
 import production.DanChunn.Pieces.Rook;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+///import java.io.BufferedReader;
+///import java.io.IOException;
+///import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import production.DanChunn.util.Color;
 import production.DanChunn.util.LastMoveQueue;
+import java.io.*;
 
 public class Chess {
     Board board;
@@ -26,6 +27,7 @@ public class Chess {
     List<Piece> recentlyRem;
     boolean draw;
     LastMoveQueue lastMoves = new LastMoveQueue();
+    ArrayList<int[]> LoadedMoves = new ArrayList<>();
     AI myAi;
 
     public Chess() {
@@ -45,7 +47,7 @@ public class Chess {
         System.out.println();
     }
 
-    public void start() {
+    public void start(int task) {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         int[] start = new int[2];
         int[] end = new int[2];
@@ -53,6 +55,37 @@ public class Chess {
         int i = 0;
         boolean check = false;
         boolean success = false;
+
+
+
+
+        int[] loadstart = new int[2];  //for loaded moves
+        int[] loadend = new int[2];    //for loaded moves
+
+
+        if(task ==1){
+            this.loadMoves();
+
+            for (int[] moves: LoadedMoves) {
+                loadstart[0] = moves[0];
+                System.out.println(moves[0]);
+                loadstart[1] = moves[1];
+                System.out.println(moves[1]);
+                loadend[0] = moves[2];
+                System.out.println(moves[2]);
+                loadend[1] = moves[3];
+                System.out.println(moves[3]);
+                this.attemptMove(loadstart,loadend,this.players[i]);
+                lastMoves.addMoves(moves);
+                if(i ==0){
+                    i =1;
+                }
+                else{
+                    i=0;
+                }
+            }
+        }
+        i=0;
         this.printBoard();
 
         while(true) {
@@ -96,6 +129,7 @@ public class Chess {
                     }else if(argv[0].equals("quit")) {
                         System.out.println("Game Saved, Quitting.");
                         lastMoves.saveGameFile();
+                        lastMoves.saveGameFileLoad();
                         System.exit(1);
                     }else{
                         System.out.println("\nError: Incorrect input.");
@@ -110,15 +144,22 @@ public class Chess {
                     }
 
                     int success1;
-                    //System.out.println("UStartY: " + start[0] + " UStartX: " + start[1]);
-                    //System.out.println("UEndY: " + end[0] + " UEndX: " + end[1]);
-                    //System.out.println("UPlayer: " + this.players[i].toString());
+                    System.out.println("UStartY: " + start[0] + " UStartX: " + start[1]);
+                    System.out.println("UEndY: " + end[0] + " UEndX: " + end[1]);
+                    System.out.println("UPlayer: " + this.players[i].toString());
 
 
                     if(i == 0) {
                         try {
 
                             success1 = this.attemptMove(start, end, this.players[i]);
+                            int[] addList = new int[4];
+                            addList[0] = start[0];
+                            addList[1] = start[1];
+                            addList[2] = end[0];
+                            addList[3] = end[1];
+
+                            lastMoves.addMoves(addList);
 
                         } catch (IllegalArgumentException var13) {
                             System.out.println("\nIllegal Move, try again.\n");
@@ -128,7 +169,7 @@ public class Chess {
                         //MAKE ALEXA's Move:
                         try {
 
-                            success1 = myAi.makeRandMove(board.posList,board,this.players[i],this);
+                            success1 = myAi.makeRandMove(board.posList,board,this.players[i],this,lastMoves);
 
                         } catch (IllegalArgumentException var13) {
                             System.out.println("\nIllegal Move, try again.\n");
@@ -204,6 +245,7 @@ public class Chess {
                         }
                     }
                     lastMoves.enqueue(line);
+
                 } else {
                     System.out.println("\nError: Incorrect input.");
                 }
@@ -510,6 +552,53 @@ public class Chess {
                     ((Pawn)p).remEnPassent();
                 }
             }
+        }
+    }
+    public void loadMoves (){
+        // The name of the file to open.
+
+
+        String fileName = "alexa-skills-kit-java-master/DanChunn/src/production/DanChunn/util/Load.txt";
+
+        // This will reference one line at a time
+        String line = null;
+
+        try {
+            // FileReader reads text files in the default encoding.
+            FileReader fileReader =
+                    new FileReader(fileName);
+
+            // Always wrap FileReader in BufferedReader.
+            BufferedReader bufferedReader =
+                    new BufferedReader(fileReader);
+
+            while((line = bufferedReader.readLine()) != null) {
+                String[] splitLine = line.split(" ");
+                int[] OneMove = new int[4];
+                OneMove[0] = Integer.parseInt(splitLine[0].substring(0,1));
+                OneMove[1] = Integer.parseInt(splitLine[0].substring(1,2));
+                OneMove[2] = Integer.parseInt(splitLine[1].substring(0,1));
+                OneMove[3] = Integer.parseInt(splitLine[1].substring(1,2));
+
+                LoadedMoves.add(OneMove);
+
+                System.out.println(line);
+            }
+
+            // Always close files.
+            bufferedReader.close();
+        }
+        catch(FileNotFoundException ex) {
+            System.out.println(
+                    "Unable to open file '" +
+                            fileName + "'");
+        }
+        catch(IOException ex) {
+            System.out.println(
+                    "Error reading file '"
+                            + fileName + "'");
+            // Or we could just do this:
+            // ex.printStackTrace();
         }
     }
 
