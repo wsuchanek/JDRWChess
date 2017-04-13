@@ -557,6 +557,10 @@ public class Chess {
             }
         }
     }
+
+    /**
+     * @post Loads moves from saved game into LoadedMoves attribute of chess class
+     */
     public void loadMoves (){
         // The name of the file to open.
 

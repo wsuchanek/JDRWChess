@@ -83,6 +83,12 @@ public class LastMoveQueue{
         return strToOut;
 
     }
+
+    /**
+     *
+     * @return returns the whole string that is written to the Load.txt.
+     * @post creates a file called Load.txt that has a integer representation of all the moves made in the saved game
+     */
     public String saveGameFileLoad(){
         String strToOut = "";
 

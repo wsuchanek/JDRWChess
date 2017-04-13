@@ -8,9 +8,24 @@ import java.util.ArrayList;
 /**
  * Created by jotsandhu on 4/2/17.
  */
+
+/**
+ * @author jotsandhu
+ */
 public  class AI {
     public AI(){
     }
+
+    /**
+     *
+     * @param inList    List of all pieces on the board and their locations
+     * @param myBoard   The board class being used for this Chess class
+     * @param myPlayer  The current player who's turn it is
+     * @param myChess   The current Chess class that is running
+     * @param Queue a Queue of the previous moves that have been made
+     * @return      returns success value for the Chess class to check whether a piece has been captured or the king is in check
+     * @post    A move has been made and the board has been updated with the new piece location.
+     */
     public static int makeRandMove(ArrayList<int[]> inList, Board myBoard, Player myPlayer, Chess myChess, LastMoveQueue Queue) {
         /*
         InList: is a list of all the locations of all the pieces for the computer player
