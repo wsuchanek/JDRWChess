@@ -3,6 +3,13 @@ import java.util.Scanner;
 /**
  * Created by Ryan on 4/3/2017.
  */
+
+/**
+ * @author Ryan
+ * The Menu Class is a simple UI for the user to interact with, the interface
+ * gives the user an option to start a new game, continue a game and close the
+ * application.
+ */
 public class Menu {
 
     public static void main(String[] args) {
@@ -24,6 +31,11 @@ public class Menu {
         }
     }
 
+    /**
+     * The processInput function will take an input from the user and with
+     * If statements determine what action the user wants to take.
+     * @param input
+     */
     public static void processInput(int input) {
         if (input == 1) {
             Chess game = new Chess();
