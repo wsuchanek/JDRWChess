@@ -128,14 +128,12 @@ public class LastMoveQueue{
 
     }
 
-<<<<<<< HEAD
     /**
      *
      * @return returns the whole string that is written to the Load.txt.
      * @post creates a file called Load.txt that has a integer representation of all the moves made in the saved game
      */
-=======
->>>>>>> f6627c211d6e0f3400a1e7a92c55d8e59307c23c
+
     public String saveGameFileLoad(){
         String strToOut = "";
 
