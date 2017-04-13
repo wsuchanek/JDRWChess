@@ -561,7 +561,7 @@ public class Chess {
         // The name of the file to open.
 
 
-        String fileName = "alexa-skills-kit-java-master/DanChunn/src/production/DanChunn/util/Load.txt";
+        String fileName = "DanChunn/src/production/DanChunn/util/Load.txt";
 
         // This will reference one line at a time
         String line = null;

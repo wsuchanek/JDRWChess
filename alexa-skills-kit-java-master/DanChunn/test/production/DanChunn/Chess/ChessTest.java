@@ -1,5 +1,6 @@
 package production.DanChunn.Chess;
 
+import com.sun.xml.internal.bind.v2.TODO;
 import org.junit.Test;
 import org.junit.Assert;
 import production.DanChunn.Game.Board;
@@ -46,9 +47,11 @@ public class ChessTest {
         Assert.assertEquals(false, Rchess.board.isSpotEmpty(2,2));
     }
 
+    //TODO: This is not a test
+    /*
     @Test
     public void menuTest(){
-        Menu myMenu = new Menu();
+        Menu myMenu = new Menu()
         myMenu.processInput(1);
-    }
+    }*/
 }
