@@ -1,6 +1,7 @@
 package production.DanChunn.Chess;
 
 
+import model.TextToSpeech;
 import production.DanChunn.Chess.Check;
 import production.DanChunn.Game.AI;
 import production.DanChunn.Game.Board;
@@ -29,8 +30,13 @@ public class Chess {
     LastMoveQueue lastMoves = new LastMoveQueue();
     ArrayList<int[]> LoadedMoves = new ArrayList<>();
     AI myAi;
+    TextToSpeech tts = new TextToSpeech();
+    SpeechRecognition myRec = new SpeechRecognition();
+
 
     public Chess() {
+        tts.setVoice("dfki-poppy-hsmm");
+
         this.players[0] = new Player(Color.White);
         this.players[1] = new Player(Color.Black);
         this.board = new Board(this.players);
@@ -86,6 +92,7 @@ public class Chess {
                 }
             }else{
                 System.out.println("Sorry no game to load found");
+                tts.speak("Sorry no game to load found", 2.0f, false, true);
             }
         }
         i=0;
@@ -95,12 +102,21 @@ public class Chess {
             while(true) {
                 while(true) {
                     if(i == 0) {
-                        System.out.print("White\'s move (Format - a2 a3): ");
+                        System.out.print("White's move (Format - a2 a3): ");
+                        tts.speak("White's Move: ", 2.0f, false, true);
                         try {
-                            line = in.readLine();
+                            tts.speak("starting position: ", 2.0f, false, true);
+                            String linePart1 = myRec.getResponse().toLowerCase();
+                            tts.speak("ending position: ", 2.0f, false, true);
+
+                            String linePart2 = myRec.getResponse().toLowerCase();
+                            line = linePart1 + " " + linePart2;
+
+                            System.out.println(line.toLowerCase());
                             break;
-                        } catch (IOException var11) {
+                        } catch (Exception var11) {
                             System.out.println("Error: No moved specified");
+                            tts.speak("Error: No moved specified", 2.0f, false, true);
                         }
 
                     } else {
@@ -113,6 +129,7 @@ public class Chess {
                 String[] argv = line.split(" ");
                 if (argv.length == 0) {
                     System.out.println("\nError: No moved specified");
+                    tts.speak("Error: No moved specified", 2.0f, false, true);
                 } else if (argv.length == 1) {
                     if (argv[0].equals("resign")) {
                         if (i == 0) {
@@ -126,16 +143,19 @@ public class Chess {
                         } else {
                             this.draw = false;
                             System.out.println("\nError: Incorrect input.\n");
+                            tts.speak("Error: Incorrect Input", 2.0f, false, true);
                         }
                     } else if(argv[0].equals("repeat")) {
                         lastMoves.printLastFiveMoves();
                     }else if(argv[0].equals("quit")) {
                         System.out.println("Game Saved, Quitting.");
+                        tts.speak("Game Saved, Quitting", 2.0f, false, true);
                         lastMoves.saveGameFile();
                         lastMoves.saveGameFileLoad();
                         System.exit(1);
                     }else{
                         System.out.println("\nError: Incorrect input.");
+                        tts.speak("Error: Incorrect Input", 2.0f, false, true);
                     }
                 } else if (argv.length >= 2 && argv.length <= 3) {
                     try {
@@ -143,13 +163,16 @@ public class Chess {
                         end = this.translatePos(argv[1]);
                     } catch (IllegalArgumentException var14) {
                         System.out.println("\nError: Moves are in incorrect format. Moves consist of fileRank");
+                        tts.speak("Error: Moves are in incorrect format. Moves consist of fileRank", 2.0f, false, true);
                         continue;
                     }
 
                     int success1;
+                    /*
                     System.out.println("UStartY: " + start[0] + " UStartX: " + start[1]);
                     System.out.println("UEndY: " + end[0] + " UEndX: " + end[1]);
                     System.out.println("UPlayer: " + this.players[i].toString());
+                    */
 
 
                     if(i == 0) {
@@ -166,6 +189,7 @@ public class Chess {
 
                         } catch (IllegalArgumentException var13) {
                             System.out.println("\nIllegal Move, try again.\n");
+                            tts.speak("Illegal Move,try again" , 2.0f, false, true);
                             continue;
                         }
                     }else{
@@ -176,6 +200,8 @@ public class Chess {
 
                         } catch (IllegalArgumentException var13) {
                             System.out.println("\nIllegal Move, try again.\n");
+                            tts.speak("Illegal Move,try again" , 2.0f, false, true);
+
                             continue;
                         }
                     }
@@ -196,6 +222,8 @@ public class Chess {
                             end = this.translatePos(argv[1]);
                             this.redoLastMove(end, start, this.players[i], success1);
                             System.out.println("\nIllegal Move, try again\n");
+                            tts.speak("Illegal Move, try again", 2.0f, false, true);
+
                             continue;
                         }
                     }
@@ -210,6 +238,7 @@ public class Chess {
                             end = this.translatePos(argv[1]);
                             this.redoLastMove(end, start, this.players[i], success1);
                             System.out.println("\nIllegal Move, try again\n");
+                            tts.speak("Illegal Move, try again", 2.0f, false, true);
                             continue;
                         }
 
@@ -223,6 +252,7 @@ public class Chess {
                             end = this.translatePos(argv[1]);
                             this.redoLastMove(end, start, this.players[i], success1);
                             System.out.println("\nIllegal Move, try again\n");
+                            tts.speak("Illegal Move, try again", 2.0f, false, true);
                             continue;
                         }
                     }
@@ -251,6 +281,7 @@ public class Chess {
 
                 } else {
                     System.out.println("\nError: Incorrect input.");
+                    tts.speak("Illegal Move, try again", 2.0f, false, true);
                 }
             }
 
@@ -297,7 +328,7 @@ public class Chess {
                 throw new IllegalArgumentException();
             }
 
-            System.out.println("the coordinates are: " + fr[0] + " ," + fr[1]);
+            //System.out.println("the coordinates are: " + fr[0] + " ," + fr[1]);
             return fr;
         } else {
             throw new IllegalArgumentException();
@@ -599,11 +630,15 @@ public class Chess {
             System.out.println(
                     "Unable to open file '" +
                             fileName + "'");
+            tts.speak("Unable to open file '" +
+                    fileName + "'", 2.0f, false, true);
         }
         catch(IOException ex) {
             System.out.println(
                     "Error reading file '"
                             + fileName + "'");
+            tts.speak("Error reading file '" +
+                    fileName + "'", 2.0f, false, true);
             // Or we could just do this:
             // ex.printStackTrace();
         }

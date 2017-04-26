@@ -1,6 +1,8 @@
 package production.DanChunn.Game;
 
+import model.TextToSpeech;
 import production.DanChunn.Chess.Chess;
+import production.DanChunn.Chess.SpeechRecognition;
 import production.DanChunn.Pieces.Piece;
 import production.DanChunn.util.LastMoveQueue;
 
@@ -31,8 +33,12 @@ public  class AI {
         InList: is a list of all the locations of all the pieces for the computer player
         returns sucess integer from attempt move function
          */
+        TextToSpeech tts = new TextToSpeech();
+        tts.setVoice("dfki-poppy-hsmm");
+
         int[] start = new int[2];
         int[] end = new int[2];
+        String alphabet = "abcdefgh";
 
         int[] out = new int[4]; //this array holds the values to be written out to the loading text file
         int success1 = -1;
@@ -60,16 +66,15 @@ public  class AI {
                         out[1] = start[1];
                         out[2] = end[0];
                         out[3] = end[1];
-                        System.out.print(out[0]);
-                        System.out.print(out[1]);
-                        System.out.print(" ");
-                        System.out.print(out[2]);
-                        System.out.print(out[3]);
-                        System.out.print(" ");
+
                         Queue.addMoves(out);
+                        String output = alphabet.substring(out[1],out[1]+1) + Integer.toString(out[0]+1) + " " + alphabet.substring(out[3],out[3]+1) + Integer.toString(out[2]+1);
 
                         //System.out.println("SUCESSSSSSSS");
                         //System.out.println("AEndY: " + end[0] + " AEndX: " + end[1]);
+                        System.out.println(output);
+                        tts.speak("Blacks move: " + output , 2.0f, false, true);
+
 
                         return success1;
                     } catch (IllegalArgumentException var13) {
